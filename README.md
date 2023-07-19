@@ -4,9 +4,9 @@ Written by Axe Wizard
 ## About the Adventure
 The Adventure takes place in the city of Eimgan, and potentially the surrounding remote villages of Clurgh and Ontstead. Players will play the role of City Guards for the city of Eimgan, and they will face various encounters and scenarios. 
 
-This adventure has been written with the intent of using theater of the mind, so it will not include any battle maps, however Stat Blocks will be included. 
+This adventure has been written with the intent of using theater of the mind, so it will not include any battle maps, however Stat Blocks will be included.
 
-Encounters will provide a few key details (usually in bullet points) that you as the Warden can use to freely describe events as you see fit.
+Each Patrol assignment will usually have a few suggestions for harmless scenarios, and one important scenario that may resolve in a chase, arrest, investigation, or combat! Encounters will provide a few key details (usually in bullet points) that you as the Warden can use to freely describe events as you see fit.
 
 ## Starting Instructions
 When guiding your players through Character creation you can simply follow the standard Cairn 1e rules, with the only exceptions being do not have them roll for the Clothing trait, or for Armor, Helmets, and Shields, or Weapons. 
@@ -94,10 +94,11 @@ Note that even though they were advised to rest, players should not be Fatigued 
 
 _As you are readying yourselves for the coming patrol, you hear the sound of a hammer driving a nail into the Assignment Board outside your quarters. You crowd around your assignment board reading the few short words scribbled on a parchment: “Market District”. It’s not much to go off of, but you know what you’re supposed to do. Oaths fresh in your minds you set out together to the Market District to start your patrol._
 
-Players will most likely be on alert, so be sure to inform them of any sounds they might hear. Have them investigate a few things that turn out to be harmless, such as:
+Players will most likely be on alert, so be sure to inform them of any sounds they might hear. The players should encounter some harmless scenarios during the patrol, such as:
  - A stray animal
  - A tired shopkeeper leaving late
- - TODO
+ - Street kids out and about after Curfew
+ - Signs of Vandalism
 
 One of the things they should investigate before the night is over, is a burglary in progress! 
  - Players can be alerted by a sound, or furtive movement. 
@@ -107,8 +108,8 @@ One of the things they should investigate before the night is over, is a burglar
  - If the players catch and restrain the burglar, he will give up and allow himself to be arrested.
 
 #### Burglar
-Name: "Dags" (if he lies, he'll say his name is Henson Halmoor, a prominent merchant)
-HP: 4  Armor: 0
+Name: "Dags" (if he lies, he'll say his name is Henson Halmoor, a prominent merchant)  
+HP: 4  Armor: 0  
 STR: 9   DEX: 14   WIL: 10
  - Dagger (d6)
  - Rope (25ft)
@@ -146,10 +147,10 @@ Now the players have some time to themselves before their next patrol. Common ac
 _As you are readying yourselves for your second patrol, you hear the sound of a hammer driving a nail into the Assignment Board outside your quarters. You crowd around your assignment board reading the few short words scribbled on a parchment: “Residential District''. Looks like another standard evening patrol. At least you’re not as nervous this time as you have a better idea of what to expect. You set out together to the Residential District to start your patrol._
 
 Players will most likely be on alert, so be sure to inform them of any sounds they might hear. Have them investigate a few things that turn out to be harmless, here are some ideas you can throw at them:
- - Another drunkard shambling home
+ - A drunkard shambling home
  - Someone emptying a chamber pot out a window
  - A tired baker leaving their house for work before dawn
- - TODO
+ - Two neighbors arguing over a barking dog
 
 One of the things they should investigate before the night is over, is a domestic disturbance. The players will hear a man shouting, and a woman screaming. As the players go to investigate the source of the noise, read the following aloud:
 
@@ -168,20 +169,21 @@ Including stat blocks for all because wow, this scenario can get crazy! Here are
  - Aleyda is hysterical and begging Candac to calm down, and she will scream and attack the players if anything bad happens to Candac (even if Candac strikes her).
 
 #### Thidrek
-HP: 2   Armor: 0
+HP: 2   Armor: 0  
 STR: 9    DEX: 12    WIL: 15
  - Unarmed (1d4)
  - Bundle of Clothes
 
 #### Candac
-HP: 5   Armor: 0
+HP: 5   Armor: 0  
 STR: 12   DEX: 9   WIL: 12
  - Cudgel (1d6)
  - Empty Wineskin
  - Coin purse containing 2d6 Gold
 
 #### Aleyda
-HP: 2   Armor: 0
+HP: 2   Armor: 0  
+STR: 8   DEX: 11   WIL: 10
  - Unarmed (1d4)
  - Linen Bed Sheet
 
@@ -201,10 +203,12 @@ _The familiar sound of a hammer striking a nail into your Assignment Board inter
 Players will be on alert, however there are going to be many sights and sounds happening from rowdy sailors, tavern wenches, and belligerent deckhands. 
  - The player characters would have knowledge that Tavern Brawls are a common occurrence that isn’t illegal, but murder or destruction of property certainly is.
 
-Distract the players with a few harmless things, here are some ideas:
- - Some patrons of a tavern having a fistfight while a crowd cheers
+Ease the players in with a few harmless things, here are some ideas:
+ - Some patrons of a tavern having a fistfight while a crowd cheers (fistfights aren't illegal)
  - Drunken sailors stumbling around
+ - Angry conversation about how those in power mistreat the lower class, and people have about had enough
  - Someone passed out in the street snoring loudly
+ - Perhaps the players see something floating in the water, such as an empty crate
 
 One of the things they should investigate before the night is over is a particularly violent fight in a tavern. The players will hear the sound of angry shouting, breaking glass, wood splintering, and the ring of steel. When they arrive on the scene you can read the following aloud:
 
@@ -218,20 +222,20 @@ The players should try to break up the fight to prevent any more bloodshed or pr
  - If the crowd gets involved, the combatants will both flee.
 
 #### Narin (Combatant #1)
-HP: 6   Armor: 0
+HP: 6   Armor: 0  
 STR: 11   DEX: 12   WIL 9
  - Cutlass (1d8)
  - Pulley
  - Empty coin purse
 
 #### Rodolf (Combatant #2, Wounded)
-HP: 0/6   Armor: 0
+HP: 0/6   Armor: 0  
 STR: 7/9   DEX: 11   WIL: 13
  - Cutlass (1d8)
  - Loaded Dice Set
  - Coin purse containing 3d20 Gold
 
-#### Crowd (Detachment, refer to Cairn ruleset pg. 14)
+#### Crowd (Detachment, refer to Cairn ruleset)
 HP: 3
 STR: 7   DEX: 9   WIL 13
  - Unarmed (1d4, 1d12 blast if enhanced)
@@ -311,7 +315,7 @@ If the players follow this thread, they’ll discover Ardveg had had enough of B
  - If Ardveg dies before he shows the Players where he hid Bragen, they won’t find anything and will return empty-handed.
 
 #### Ardveg
-HP: 6   Armor: 1
+HP: 6   Armor: 1  
 STR: 12   DEX: 14   WIL: 12
  - Hunting Bow (1d8 when wielded by Ardveg, else only 1d6)
  - Skinning Knife (1d6)
@@ -360,14 +364,15 @@ _You crowd around your assignment board reading the few short words scribbled on
 
 Players will be on alert, and the Slums will be fairly active in the evening hours. As the evening progresses to early morning there will be less and less people about. 
 
-Distract the players with a few harmless things such as:
+As always give the players a few harmless scenarios such as:
  - Two men having a loud verbal argument
  - A homeless vagrant sleeping in the middle of the street
  - Beggars asking the players to take pity on them and spare them a coin
+ - Desparate souls crowding around a cart of someone freely giving food to the people
 
-One of the things they should encounter before the night is over is a cutpurse swipes the coin purse of one of the players! Select a player to be the target (how you decide this is up to you!) and then read the following:
+One of the things they should encounter before the night is over is a cutpurse swipes the coin purse of one of the players! Select a player to be the target (how you decide this is up to you) and then read the following:
 
-_As you turn a corner on your patrol, <player name>, you feel a slight rustle at your hip. You quickly turn and look to find a dirty man with a small dagger clutching your coin purse, turning to run._
+_As you turn a corner on your patrol, <player name>, you feel a slight rustle at your hip. You quickly turn and look to find a dirty man with a small dagger clutching your coin purse he just cut from you. He's already turning to run._
 
 At this point have the player make a DEX save to see if they can grab the cutpurse’s arm before they can flee out of range.
  - If the cutpurse is restrained by a player, they cannot flee unless they succeed at a DEX save. 
@@ -378,14 +383,14 @@ At this point have the player make a DEX save to see if they can grab the cutpur
  - The armed man will try to take the target player’s coin purse that the thief stole, and will attack the players if they intervene.
 
 #### Nelman (Cutpurse)
-HP: 2   Armor: 0
+HP: 2   Armor: 0  
 STR: 8   DEX: 12   WIL: 9
  - Dagger (1d6)
  - Player’s coin purse (If not yet retrieved)
  - Dark clothing
 
 #### Groldar (Angry Victim)
-HP: 6   Armor: 1
+HP: 6   Armor: 1  
 STR: 12   DEX: 11   WIL: 9
  - Rusted Sword (1d6)
  - Rusty Chainmail (1 Armor)
@@ -419,19 +424,20 @@ _The weary guard motions to her comrades “Alright we’re off to finally get s
 Here the players are standing guard at the Main Gate:
  - It is daytime, no torches or light sources are needed.
 
-Distract the players with a few innocent scenarios such as:
+Give the players a few innocent scenarios such as:
  - Legitimate trader with a donkey laden with trade goods.
  - Group of farmers from Clurgh coming to get supplies.
+ - A Newcomer to the city asking the players for directions or where to find goods and services.
  - Pompous man who refuses to be searched and demands to "speak with the supervisor"
  - Official Courier galloping towards the gate
 
 During their shift, they’ll encounter a “merchant” with a wagon full of goods pulled by two horses.
  - If the players try to search the cart, the man will attempt to bribe the players with 25 gold total to let them pass (He’ll haggle all the way to 100 gold).
  - If the players refuse the bribe (or change their mind after receiving the bribe), the man will be visibly angry but stand aside and allow the search.
- - There is nothing wrong with the cargo inside the wagon (It’s all foodstuffs), however if the players look underneath the wagon, they will find some crates in a hidden storage area that contain an alarming amount of weapons padded with clothing and bedding to keep it quiet.
+ - There is nothing wrong with the cargo inside the wagon (It’s all foodstuffs), however underneath the wagon, there is some crates in a hidden storage area that contain an alarming amount of weapons (swords and crossbows) padded with clothing and bedding to keep it quiet.
  - If the players find the concealed weapons, the man will attack!
  - If the man attacks, he will fight to the death.
- - If a player goes down, other guards will show up and intervene
+ - If a player goes down, Relief Guards will show up and intervene
 
 #### Merciless Merchant
 HP: 6   Armor: 2   
@@ -443,7 +449,7 @@ STR: 14   DEX: 13   WIL: 10
  - Cryptic Letter (the words make no sense, some type of code, unreadable)
 
 #### Relief Guards (3 total)
-HP: 4   Armor: 1
+HP: 4   Armor: 1  
 STR: 12   DEX: 10   WIL: 10
  - Sword (1d8)
  - Bow (1d6)
@@ -457,5 +463,86 @@ Once the scenario with the Merciless Merchant has concluded:
  - Players are now on Downtime until the next morning.
 
 ## 7: Attacked Caravan
+This is assignment will be a bit more difficult, not only potentially for the players, but also you as the Warden. There is quite a lot of dialogue to be read aloud, and quite a few NPCs involved!
 
+_Morning arrives and you quickly busy yourself preparing for the day's assignment. You all stand around your assignment board staring at a small piece of parchment that simply says "Market District". You all make your last minute preparations, and then start to make your way to the Market District when you see both Captain Geberic and Lieutenant Vandil looking concerned speaking with a fellow guard who is slightly out of breath. Lieutenant Vandil notices you and and moves to intercept you._
+
+_"Hold on please, I know I've assigned you to patrol the Market District today but I've a new assignment for you. Something just came up, follow me". He motions for your to follow and he walks back to Captain Geberic and the winded Guard. Geberic looks at you all as you approach, he greets you curtly: "Good, standby. We've got a situation here. Got another Unit coming too, once Kade here catches his breath he'll brief you all on what he knows and then you can be about it."_
+
+_You wait for a minute or two in heavy silence as Kade's breathing slowly becomes normal, while Geberic stands with his arms crossed, eyes unfocused, stroking his mustache while thinking quietly to himself. Vandil stands at his side, keeping his silence for now. Footsteps are heard and 3 more familiar Guards arrive on the scene: The same 3 guards that you relieved from the Main Gate the day before. Upon seeing you they flash a quick smile your way, the raven-haired woman giving a friendly greeting: "Well hello again, what trouble are we into today?"_
+
+_Upon their arrival Geberic gives them a similar curt greeting that you received: "Good, we're all here. Kade, tell us what happened, what do we know?". Kade too another deep breath and then spoke:_ 
+
+_"Yes sir, me and my mates were assigned to the Main Gate, when a wounded merchant came galloping in, even his horse was wounded, almost didn't stop. Once we calmed the beast down we were able to help the man off the horse and before we could even start looking to his wounds he started yelling that he was attacked. Well we all pulled inside the gate quickly, Wilkes shut the gate, just in case they was chasing him. Brenn calmed the man down and started asking for specifics. We weren't able to get much out of his before he passed out, but I'll relay what we found out._ 
+
+_Their Caravan had about 3 wagons total, each drawn by 2 horses each. They were taken by surprise. Brenn asked the man if they had hired anyone to protect the caravan from attacks, and the man said he hired a few mercanaries but he didn't know what happened to them. Said one moment they were plodding along the main road, and the next there was screaming, and the horses panicked and started trying to run off, which lead to his wagon flipping over. Said he managed to cut off the harness from one of the horses and jump onto his back and ride back here. Brenn asked him where exactly this happened, and he said it was near the edge of the forest, which is just a few hours travel from here. Lieutenant Connor woke up from all the noise and told me to run back here and tell Captain Geberic. That's what we know right now, we're not sure how many attacked them, or even_ what _attacked them."_
+
+_Geberic turns to everyone: "That's the situation, I'm assigning your two squads to investigate what happened. If you find who was behind this attack and it's within your means to deal with them, do so. If you find yourself outnumbered, don't risk it, send a rider back to me immediately with a detailed report, and I'll make sure you get reinforcements."_
+
+_He turns to the other squad: "Erika, Euric, Gundiok, I know you three have senority and normally I'd put you lot in charge, but this time I'm going to put them in charge." He look over at you: "They've only been here just over a week and already they've proven extremely capable." He addresses everyone: "Get yourselves ready for a hurried march. If you're lacking weaponry, go see Quartermaster Berig and he'll issue you additional arms and rations should you need it. You leave immediately. Dismissed." He motions for you all to go about your business. As you leave you can hear him giving orders to Kade telling him to reopen the gate but be on alert._
+
+_As you all head back to your quarters to prepare, the other squad approches, the raven-haired woman speaks: "Sounds like you lot call the shots, we never got the introduce ourselves when you relieved us from the Main Gate yesterday. This is Euric, he don't talk much so we usually make him play "bad guard", but he's a good one." Euric is a rugged man, thin wispy hair with kind, but hard eyes. He has a few scars on his face, and it looks like his nose was broken and never set properly. He smiles and gives a friendly wave._
+
+_She gestures to the larger man, barrel chested, hairy, and rather than a sword he carried a warhammer. "This big brute is Gundiok, but you can call him Gundy, despite his looks he's a gentle soul. Well, he's gentle when he's not swinging that gigantic headache-on-a-stick that is." Gundiok's lips crack back to reveal a smile of broken teeth._
+
+_She turns from "Gundy" and then continues: "And then that leaves me. I'm Erika, they usually let me do the talking since most folks seem to be more willing to talk to me, but don't think that just because I'm a woman that I can't hold my own in a fight." Despite her pleasant demeanor, your can see she is also sporting a few scars herself. "Anyway we introduced ourselves, who are you?"_
+
+Give the players a chance to introduce themselves (if they wish)
+
+_"Must be kind of a big deal to make Geberic decide to put you in charge over us. Don't worry though, we don't mind following, just don't get us killed ok? We need to look out for all of us, and we need to find out who or what was behind this attack. We'll get kitted out and meet you back here when you're ready to set out. We need to hurry!". With that she turns and follows Euric and Gundiok back to their quarters to prepare, and you should do the same._
+
+At this point the players can do whatever they wish to prepare. If they wish to see Quartermaster Berig for additional supplies, he can issue them Helmets (1 armor), Shields (1 armor), Swords (1d8), and Bows (1d6, bulky) should they wish it, as well as 3 days of rations (1 slot)
+
+Once everything is ready, they can set out. Travel is fairly straightforward:
+ - Should only take a few hours to get to the scene of the attack
+ - Time will be about mid-afternoon
+ - Weather will be overcast
+
+Once they arrive on scene, read the following aloud:
+
+_You see the edge of the forest becoming clearer, everyone keenly scanning for signs of any threat. Behind you, you hear a snapping sound, and turn to see Gundiok gingerly lifting his boot off of whatever he just stepped on. Erika rushes over and picks it up. She holds up a broken crossbow bolt._
+
+_"Gundy just stepped on this, it was jutting out of the ground in the middle of the road, like it was fired from that direction." she points up ahead. "Wonder if they were trying to kill the merchant who ran. Either way it looks like we're in range of attack now, so be ready." Her tone softens a bit as she sheepishly says "Sorry, used to only working with Euric and Gundy here, you're in charge, so what's the plan?"_ 
+
+From here the players can decide how best to move forward. Here are the key details of what they'll find up ahead:
+ - The 3 wagons are still there, many crossbow bolts are sticking out of the sides of them.
+ - The only corpses that are there are but a few horses that appeared to have caught a few stray bolts.
+ - All of the cargo in the wagons appears to still remain there, untouched.
+ - Among the untouched cargo, is another Cryptic Letter (the words make no sense, some type of code, unreadable)
+ - Wide trails can be found in the forest, as if a large number of people moved as a group through it.
+
+Once the players have gathered as much info as they can and had a chance to discuss it amongst themselves, read the following aloud:
+
+_You all regroup to share your findings. Euric speaks up, taking a break from furiously scribbling notes he was taking: "It's wrong. None of this makes sense." Gundiok grunts in agreement, his eyes surveilling the surroundings for any further danger. Erika also speaks up "All the wagons are here, all the goods are untouched, there's not a single corpse, I wasn't even able to determine if there was a struggle at all. And why crossbows? Judging by how many bolts were fired, and by all that crushed undergroth beyond the tree line... I'd say there were at least 20 of them. But where are the other merchants? Where are the mercanaries they hired to protect them? What do these Cryptic Letters mean? We've been finding them all over lately. This all feels off."_
+
+_As Erika trails off, Euric speaks again: "We're also faced with a tough decision. There's only a few of us. We're outnumbered, but we're sorely lacking in information. Geberic said to send word back for reinforcements if it was beyond us, but at this point we don't know enough. We know we're up against at least 20 or so crossbows, but who wields them? Why attack this caravan and not take any of the loot? Why weren't we able to find bodies, or even any signs of a real struggle? This resembles casual target practice rather than combat, and a few poor horses suffered the most, but the others must've ran off. We need to know more." Erika nods in agreement, she chimes in: "I agree with Euric, we need to know more, but I'm hesitant to follow the trail knowing we're outnumbered."_
+
+_Your thoughts are suddenly interrupted, you feel the ground shake slightly, and hear a thud in the forest. You all look to one another to see if you experienced it to, then another thud. Suddenly an angry Forest Troll emerges from the forest, roaring and running right at you! Erika shouts: "Everyone spread out, try to keep distance and we'll bring this brute down!"
+
+#### Forest Troll
+HP: 12   Armor: 0  
+STR: 15   DEX: 12   WIL: 7
+ - Claws (1d6 blast)
+ - Bite (1d8)
+
+### Attacked Caravan: Conclusion
+Give the players a chance to rest and recover their HP, Erika's team can help heal any critical damage if they're still alive. Then read the following aloud:
+
+_Gundiok suddenly speaks in an urgent gruff tone: "Something is wrong". He points his meaty hairy arm back in the direction of Eimgan: "Look!" Thick black clouds of smoke are beginning to rise up over Eimgan. Erika, Euric, and Gundiok exchange worried glances with eachother and all of you. Erika says in a shaking voice: "What is happening?" She looks to you all: "We have to get back to the city!"_
+
+## 8: The Attack on Eimgan
+TODO: Here's what I'm thinking:
+ - The people have risen up and killed Marcomir
+ - Geberic tried to stop it from happening, and the populace turned on the Guard
+ - Widespread riots are rampant, Geberic is holding the Barracks protecting what innocents he can with what few guards he has left
+
+When the players arrive, it's chaos in the streets.
+ - There will be innocents fleeing the chaos
+ - Occasional rioters will attack the players on their way to the barracks
+ - Once they reach the barracks they'll get updated on the situation by Geberic
+ - Geberic is melancholy, thinks they failed in their oaths
+ - Many guards have died, there's not many left
+ - The barracks is packed with innocent refugees seeking protection from the chaos
+ - One among them is a traitor
+ - The plan is to break out and get the refugees outside the city, and seek refuge in Clurgh or Ontstead
 
