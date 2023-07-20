@@ -111,7 +111,7 @@ One of the things they should investigate before the night is over, is a burglar
 Name: "Dags" (if he lies, he'll say his name is Henson Halmoor, a prominent merchant)  
 HP: 4  Armor: 0  
 STR: 9   DEX: 14   WIL: 10
- - Dagger (d6)
+ - Dagger (1d6)
  - Rope (25ft)
  - Lockpicks
  - Crowbar
@@ -212,7 +212,7 @@ Ease the players in with a few harmless things, here are some ideas:
 
 One of the things they should investigate before the night is over is a particularly violent fight in a tavern. The players will hear the sound of angry shouting, breaking glass, wood splintering, and the ring of steel. When they arrive on the scene you can read the following aloud:
 
-_As you arrive at the scene of chaos, you quickly survey the surroundings and take in the situation. The first thing you notice immediately is two men hacking at each other with cutlasses, and one man is bleeding from a wound on his arm, staining his white shirt with a growing blotch of crimson. The gathered crowd has given the combatants a wide berth, and the Tavern Keeper is shouting for them to stop as one combatant throws a wooden stool at the other. The Tavern Keeper sees you and implores you to intercede._
+_As you arrive at the scene of chaos, you quickly survey the surroundings and take in the situation. The first thing you notice immediately is two men hacking at each other with cutlasses, and one man is bleeding from a wound on his arm, staining his shirt with a growing blotch of crimson. The gathered crowd has given the combatants a wide berth, and the Tavern Keeper is shouting for them to stop as one combatant throws a wooden stool at the other. The Tavern Keeper sees you and implores you to intercede._
 
 The players should try to break up the fight to prevent any more bloodshed or property damage, but may have to defend themselves depending on how the scenario develops. 
  - Neither combatant will drop their weapon while the other still holds theirs. 
@@ -236,9 +236,10 @@ STR: 7/9   DEX: 11   WIL: 13
  - Coin purse containing 3d20 Gold
 
 #### Crowd (Detachment, refer to Cairn ruleset)
-HP: 3
+HP: 4
 STR: 7   DEX: 9   WIL 13
  - Unarmed (1d4, 1d12 blast if enhanced)
+ - Crowd will disperse and run if they take critical damage
 
 ### Dockside District: Conclusion
 As it was with the previous Patrols, the players will make their way back to the Barracks to the Duty Office and make their report. Once the report is complete, each player will receive 5 gold and then will be on Downtime until their next Assignment.
@@ -341,7 +342,7 @@ If the players decide to take the money and run:
  - Enjoy the chaos!
 
 If the players decide to return to Eimgan:
- - The players should journey back to Eimgan and report to Marcomir with the Heavy Lockbox and the Ledger.
+ - The players should journey back to Eimgan and report to Marcomir (preferably with the Heavy Lockbox and the Ledger).
  - If the amount returned matches the amount listed in the ledger, Marcomir will pay each player 30 gold.
  - If the players brought back the corpse of Bragen, Marcomir will be disgusted, and demand proof of Bragen’s misconduct. If no proof is provided, no bonus gold is received.
  - Should the Players try to forge false proof of Bragen's attempt to run off with the gold, Marcomir will still accept it and pay the Players the promised bonus, as he hates the man.
@@ -471,7 +472,7 @@ _"Hold on please, I know I've assigned you to patrol the Market District today b
 
 _You wait for a minute or two in heavy silence as Kade's breathing slowly becomes normal, while Geberic stands with his arms crossed, eyes unfocused, stroking his mustache while thinking quietly to himself. Vandil stands at his side, keeping his silence for now. Footsteps are heard and 3 more familiar Guards arrive on the scene: The same 3 guards that you relieved from the Main Gate the day before. Upon seeing you they flash a quick smile your way, the raven-haired woman giving a friendly greeting: "Well hello again, what trouble are we into today?"_
 
-_Upon their arrival Geberic gives them a similar curt greeting that you received: "Good, we're all here. Kade, tell us what happened, what do we know?". Kade too another deep breath and then spoke:_ 
+_Upon their arrival Geberic gives them a similar curt greeting that you received: "Good, we're all here. Kade, tell us what happened, what do we know?". Kade takes another deep breath and then speaks:_ 
 
 _"Yes sir, me and my mates were assigned to the Main Gate, when a wounded merchant came galloping in, even his horse was wounded, almost didn't stop. Once we calmed the beast down we were able to help the man off the horse and before we could even start looking to his wounds he started yelling that he was attacked. Well we all pulled inside the gate quickly, Wilkes shut the gate, just in case they was chasing him. Brenn calmed the man down and started asking for specifics. We weren't able to get much out of his before he passed out, but I'll relay what we found out._ 
 
@@ -525,6 +526,23 @@ STR: 15   DEX: 12   WIL: 7
  - Claws (1d6 blast)
  - Bite (1d8)
 
+#### Erika
+HP: 5   Armor: 1  
+STR: 10   DEX: 14   WIL: 12  
+ - Sword (1d8)
+ - Bow (1d6)
+
+#### Euric
+HP: 4   Armor: 1  
+STR: 9   DEX: 15   WIL: 13
+ - Sword (1d8)
+ - Bow (1d6)
+
+#### Gundiok
+HP: 6   Armor: 1  
+STR: 14   DEX: 9   WIL: 7
+ - Warhammer (1d10, bulky)
+
 ### Attacked Caravan: Conclusion
 Give the players a chance to rest and recover their HP, Erika's team can help heal any critical damage if they're still alive. Then read the following aloud:
 
@@ -546,3 +564,29 @@ When the players arrive, it's chaos in the streets.
  - One among them is a traitor
  - The plan is to break out and get the refugees outside the city, and seek refuge in Clurgh or Ontstead
 
+
+
+
+# Sources and Credits info
+ - Adventure created and written by AxeWizard
+ - All art and layout made possible with https://www.befunky.com/create/
+ - Map art created with https://watabou.github.io/city.html (and modified in befunky)
+ - Character art created with Heroforge (and modified in befunky)
+ - Some art is screenshots from areas in Valheim that I made (and modified in befunky)
+
+# Misc Notes
+
+## Current editing process
+1. Use befunky and load an image of a white background that is 1000x1294 (8.5 x 11 paper aspect ratio)
+2. Use tools such as HeroForge, etc to create some art
+3. Import art into befunky, edit images, apply art filters
+4. Use befunky's text tool:
+   - Fonts: "The Art of Illuminating" for titles, "Lora" for normal text
+   - Font Sizes: 18, 24, and 48
+5. Once page is completed, save the project on befunky
+   - TODO: Also export the project locally and get them in version control
+6. Export as PDF
+7. Combine individual exported PDFs using https://combinepdf.com
+8. Once I have a combined PDF, I make it booklet format using https://online2pdf.com/create-booklet-flipbook#
+9. Profit??
+10. TODO: Once final product is ready, tag a release and include finished files
