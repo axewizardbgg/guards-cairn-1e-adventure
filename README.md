@@ -433,7 +433,7 @@ Give the players a few innocent scenarios such as:
  - Official Courier galloping towards the gate
 
 During their shift, they’ll encounter a “merchant” with a wagon full of goods pulled by two horses.
- - If the players try to search the cart, the man will attempt to bribe the players with 25 gold total to let them pass (He’ll haggle all the way to 100 gold).
+ - If the players try to search the cart, the man will attempt to bribe the players with 25 gold total to let him pass (He’ll haggle all the way to a total of 100 gold).
  - If the players refuse the bribe (or change their mind after receiving the bribe), the man will be visibly angry but stand aside and allow the search.
  - There is nothing wrong with the cargo inside the wagon (It’s all foodstuffs), however underneath the wagon, there is some crates in a hidden storage area that contain an alarming amount of weapons (swords and crossbows) padded with clothing and bedding to keep it quiet.
  - If the players find the concealed weapons, the man will attack!
@@ -456,21 +456,37 @@ STR: 12   DEX: 10   WIL: 10
  - Bow (1d6)
 
 ### Main Gate: Conclusion
-Once the scenario with the Merciless Merchant has concluded: 
+Once the scenario with the Merciless Merchant has concluded (whether or not the players searched the cart): 
  - Guards sent to relieve you will arrive. (Unless arrival was already triggered earlier by a player going unconscious)
- - Lieutenant Connor is awoken by the commotion and advises players to take the merchant (dead or alive) to the Duty officer, along with the wagon and its contents.
+
+If players allowed the merchant through:
+ - Nothing special happens (right now), they can return to the Barracks
+
+If players fought the Merciless Merchant:
+ - Lieutenant Connor is awoken by the commotion and advises players to take the merchant (dead or alive) to the Duty Office, along with the cart and its contents.
+
+Regardless of how it turned out:
  - Upon returning to the Barracks and reporting to Duty Officer, players will each receive a total of 10 gold each, 5 for normal duty, and 5 for a bonus from Lieutenant Vandil.
- - If the Cryptic Letter is given to the Duty Officer, he will add it to a growing pile of similar letters.
+ - If the Cryptic Letter is given to the Duty Officer, he will add it to a growing pile of similar letters. If the players ask about the letters, he'll say it's being investigated.
  - Players are now on Downtime until the next morning.
 
-## 7: Attacked Caravan
+## 7: Cryptic Investigation
+ - Players will be aiding an investigation into the Cryptic Letters
+ - TODO
+
+## 8: Do You Wish To Continue?
+At this point in the Adventure, we're about to move onto the ending. If your players are having fun and don't want the adventure to end yet, this is a perfect point where you can can sort of "pause" the progress on the adventure as written, and continue doing your own Patrol assignments in the various Districts (Market, Residential, Dockside, Slums). Then you can continue onto the end of the adventure when you're ready!
+
+I recommend asking the players what they want to do, but keep in mind that just because we're reaching the end of the written adventure, doesn't mean that the Players have to say goodbye to their characters if they don't want to. You're free to continue playing them, even in a different setting! It's all about what you all want to do together.
+
+## 9: Attacked Caravan
 This is assignment will be a bit more difficult, not only potentially for the players, but also you as the Warden. There is quite a lot of dialogue to be read aloud, and quite a few NPCs involved!
 
 _Morning arrives and you quickly busy yourself preparing for the day's assignment. You all stand around your assignment board staring at a small piece of parchment that simply says "Market District". You all make your last minute preparations, and then start to make your way to the Market District when you see both Captain Geberic and Lieutenant Vandil looking concerned speaking with a fellow guard who is slightly out of breath. Lieutenant Vandil notices you and and moves to intercept you._
 
 _"Hold on please, I know I've assigned you to patrol the Market District today but I've a new assignment for you. Something just came up, follow me". He motions for your to follow and he walks back to Captain Geberic and the winded Guard. Geberic looks at you all as you approach, he greets you curtly: "Good, standby. We've got a situation here. Got another Unit coming too, once Kade here catches his breath he'll brief you all on what he knows and then you can be about it."_
 
-_You wait for a minute or two in heavy silence as Kade's breathing slowly becomes normal, while Geberic stands with his arms crossed, eyes unfocused, stroking his mustache while thinking quietly to himself. Vandil stands at his side, keeping his silence for now. Footsteps are heard and 3 more familiar Guards arrive on the scene: The same 3 guards that you relieved from the Main Gate the day before. Upon seeing you they flash a quick smile your way, the raven-haired woman giving a friendly greeting: "Well hello again, what trouble are we into today?"_
+_You wait for a minute or two in heavy silence as Kade's breathing slowly becomes normal, while Geberic stands with his arms crossed, eyes unfocused, stroking his mustache while thinking quietly to himself. Vandil stands at his side, keeping his silence for now. Footsteps are heard and 3 more familiar Guards arrive on the scene: The same 3 guards that you relieved from the Main Gate. Upon seeing you they flash a quick smile your way, the raven-haired woman giving a friendly greeting: "Well hello again, what trouble are we into today?"_
 
 _Upon their arrival Geberic gives them a similar curt greeting that you received: "Good, we're all here. Kade, tell us what happened, what do we know?". Kade takes another deep breath and then speaks:_ 
 
@@ -480,9 +496,9 @@ _Their Caravan had about 3 wagons total, each drawn by 2 horses each. They were 
 
 _Geberic turns to everyone: "That's the situation, I'm assigning your two squads to investigate what happened. If you find who was behind this attack and it's within your means to deal with them, do so. If you find yourself outnumbered, don't risk it, send a rider back to me immediately with a detailed report, and I'll make sure you get reinforcements."_
 
-_He turns to the other squad: "Erika, Euric, Gundiok, I know you three have senority and normally I'd put you lot in charge, but this time I'm going to put them in charge." He look over at you: "They've only been here just over a week and already they've proven extremely capable." He addresses everyone: "Get yourselves ready for a hurried march. If you're lacking weaponry, go see Quartermaster Berig and he'll issue you additional arms and rations should you need it. You leave immediately. Dismissed." He motions for you all to go about your business. As you leave you can hear him giving orders to Kade telling him to reopen the gate but be on alert._
+_He turns to the other squad: "Erika, Euric, Gundiok, I know you three have senority and normally I'd put you lot in charge, but this time I'm going to put them in charge." He look over at you: "They haven't been here long and already they've proven extremely capable." He addresses everyone: "Get yourselves ready for a hurried march. If you're lacking weaponry, go see Quartermaster Berig and he'll issue you additional arms and rations should you need it. You leave immediately. Dismissed." He motions for you all to go about your business. As you leave you can hear him giving orders to Kade telling him to reopen the gate but be on alert._
 
-_As you all head back to your quarters to prepare, the other squad approches, the raven-haired woman speaks: "Sounds like you lot call the shots, we never got the introduce ourselves when you relieved us from the Main Gate yesterday. This is Euric, he don't talk much so we usually make him play "bad guard", but he's a good one." Euric is a rugged man, thin wispy hair with kind, but hard eyes. He has a few scars on his face, and it looks like his nose was broken and never set properly. He smiles and gives a friendly wave._
+_As you all head back to your quarters to prepare, the other squad approches, the raven-haired woman speaks: "Sounds like you lot call the shots, we never got the introduce ourselves when you relieved us from the Main Gate yesterday. This is Euric, he don't talk much around strangers so we usually make him play "bad guard", but he's a good one." Euric is a rugged man, thin wispy hair with kind, but hard eyes. He has a few scars on his face, and it looks like his nose was broken and never set properly. He smiles and gives a friendly wave._
 
 _She gestures to the larger man, barrel chested, hairy, and rather than a sword he carried a warhammer. "This big brute is Gundiok, but you can call him Gundy, despite his looks he's a gentle soul. Well, he's gentle when he's not swinging that gigantic headache-on-a-stick that is." Gundiok's lips crack back to reveal a smile of broken teeth._
 
@@ -548,7 +564,7 @@ Give the players a chance to rest and recover their HP, Erika's team can help he
 
 _Gundiok suddenly speaks in an urgent gruff tone: "Something is wrong". He points his meaty hairy arm back in the direction of Eimgan: "Look!" Thick black clouds of smoke are beginning to rise up over Eimgan. Erika, Euric, and Gundiok exchange worried glances with eachother and all of you. Erika says in a shaking voice: "What is happening?" She looks to you all: "We have to get back to the city!"_
 
-## 8: The Attack on Eimgan
+## 10: The Attack on Eimgan
 TODO: Here's what I'm thinking:
  - The people have risen up and killed Marcomir
  - Geberic tried to stop it from happening, and the populace turned on the Guard
