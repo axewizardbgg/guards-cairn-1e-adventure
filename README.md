@@ -8,6 +8,8 @@ This adventure has been written with the intent of using theater of the mind, so
 
 Each Patrol assignment will usually have a few suggestions for harmless scenarios, and one important scenario that may resolve in a chase, arrest, investigation, or combat! Encounters will provide a few key details (usually in bullet points) that you as the Warden can use to freely describe events as you see fit.
 
+In the event of Character Death, the player's character will be buried with honors, and they will roll another character as a fresh recruit to fill in.
+
 ## Starting Instructions
 When guiding your players through Character creation you can simply follow the standard Cairn 1e rules, with the only exceptions being do not have them roll for the Clothing trait, or for Armor, Helmets, and Shields, or Weapons. 
 
@@ -470,9 +472,102 @@ Regardless of how it turned out:
  - If the Cryptic Letter is given to the Duty Officer, he will add it to a growing pile of similar letters. If the players ask about the letters, he'll say it's being investigated.
  - Players are now on Downtime until the next morning.
 
-## 7: Cryptic Investigation
- - Players will be aiding an investigation into the Cryptic Letters
- - TODO
+## 7: Search and Seizure
+ - In this scenario Players will be aiding an investigation into the Cryptic Letters
+ - Players will be escorting an investigator who will lead them in a smash and grab operation on a shady safehouse
+ - The occupants of the safehouse will panic at their arrival, and start destroying evidence
+ - This is a dangerous mission, for this scenario if a player takes Critical Damage, they won't be able to fight but they can hobble with assistance from another player or NPC
+
+_You're all up and ready to go at dawn, feeling refreshed after yesterday's ordeals of double duty. You're all busying yourselves preparing for whatever the day brings, expectantly waiting for the tell-tale sound of a new assignment being posted. You all look up as the door opens to see a tired-looking Lieutenant Vandil in the doorway:_
+
+_"Oh good, you're all up and ready to go", he steps into the room and another figure enters behind him. Vandil continues: "I have an interesting duty that I was asked to assign to a reliable unit, and I've assured Ervig here that you're it.". He steps aside and Ervig steps forward looking at all of you. Ervig is a slender man, sharp features with a waxed curled mustache and piercing eyes. He wears the standard uniform, but he has an additional breastplate, and a stylish feathered cap. He speaks in a crisp concise tone:_
+
+_"Morning! I'll get right to it. Lieutenant Vandil was gracious enough to volunteer you all to aid me in an investigation. You may have noticed these Cryptic Letters that have been cropping up lately? Well I've not yet found a cipher key or a way to translate the code, but I have discovered a location where these letters seem to originate from. I've been keeping an eye on it in order to try to establish security patterns. From what I've been able to tell, they're fairly lax. Unfortunately there's no way to sneak in unnoticed, so the only option left is to raid the place by force, and I need backup."_
+
+_Leiutenant Vandil chimes in: "This location appears to be a shady safehouse in the Slums District. Normally we would have never been able to keep an eye on the place, as you may have noticed we're not well liked in the Slums, but we've been able to perform discreet surveillance from a high hidden vantage point in one of the taller buildings in the Market District. What this means is that you'll be seen approaching well before you arrive on site, so you'll need to strike fast."_
+
+_Ervig continues: "I expect to meet resistance, but keep in mind we're there to find evidence, evidence that they will most likely try to hide or dispose of once they hear of our arrival. Right now is the best time to strike, early in the morning while most of them are still groggy from drinking. We'll need to be as fast as possible to get in, and carry as much as we can on our way out, so travel light. Any questions?"_
+
+The players can ask any clarifying questions, but really this mission is straight forward, it's a smash and grab:
+ - Once they set out they'll be following Ervig, and they'll all be running at a fast pace. They may end up getting a point or 2 of fatigue through the course of this mission.
+ - The goal is to seize as much evidence as possible (and prevent destruction of evidence)
+ - They must keep up with and protect Ervig
+
+_Ervig nods and says: "Good, get your equipment sorted out and meet me outside.", he quickly exits the room leaving Lieutenant Vandil who says: "Sounds like you all better hurry, I'll get out of your way. Stick with Ervig, he'll see you through, and hopefully we can finally find out what all these letters mean." and with that Vandil exits as well._
+
+Once they players are ready, they'll meet Ervig outside the Barracks:
+
+_You exit the Barracks to find Ervig waiting for you. "There's a tavern close to the Slums that we'll head to. It's not unusual to see Guards there, so we shouldn't draw much notice. From there we'll need to move as fast as we can, to give any lookouts as little time as possible to react. Let's move" and he turns and starts quickly walking with a purpose. You all hurry to follow._
+
+_You arrive at the tavern to of course find it closed as it is morning. Ervig mutters under his breath to you: "Act like we're inspecting the tavern for signs of vandalism, and meet me around the back. Whatever you do, don't look in the direction of the Slums or draw attention.", and with that he starts a slow circle around the tavern, making a show of looking for damage. You start to do the same, circling the opposite direction_
+
+Once they players have made their circle around the back of the tavern, they'll meet Ervig in the back
+
+_You arrive at the back of the Tavern to find Ervig waiting for you: "Alright, this is it. We sprint from here. Weapons out. Remember our objective, and don't get distracted. Ready?"
+
+Once the players are ready, it's go time. This will be a mad dash to keep up with Ervig until everyone reaches the safehouse. 
+ - This will be achieved with 3 rounds of DEX saves
+ - On a failed DEX save, the player takes 1 Fatigue
+
+_Ervig takes a deep breath, draws his sword. You all do the same. "With me!" he barks and as one you all take off in a full sprint. Immediately cries of alarm can be heard as you rush headfirst into the Slums. "They're coming! They're coming!" someone is shouting nearby. Beggars and vagrants who were sitting in the street mere moments ago are now running in all directions._
+
+Have each player make a DEX save, any who fail take 1 point of Fatigue
+
+_With thundering strides and blood pumping, you continue running. Ervig struggles to shout: "Keep moving!" as you all continue running as fast as you can._
+
+Have each player make another DEX save, any who fail take 1 point of Fatigue
+
+_Amidst the chaos of the random people running in panic at your sudden charge, you see two figures up ahead that are not running away from you, but toward you. As you draw near you can clearly see the looks of panic and desperation. Ervig charges right into them and knocks both of them over with a momentous thud. "Keep moving!" he shouts, as he scrabbles to his feet and continues his indomitable advance. "Almost there!" Ahead you see more figures crowding at the entrance of an especially ratty looking structure. You keep running with everything you have, but you're starting to slow._
+
+Have each player make one final DEX save, any who fail take 1 point of Fatigue
+
+_Ervig tries to shout, but can only manage an audible wheeze: "This is the place!". Just ahead are two men holding weapons, nervously blocking the entrance to this rundown shack. From behind them you hear a panicked voice: "They're already here! HURRY!", followed by a door slamming shut. You suspect they're trying to hide or destroy evidence, but you'll have to get through the two armed men first._
+
+Here is a standard combat encounter. 
+
+#### Ervig
+HP: 6   Armor: 2  
+STR: 15   DEX: 12   WIL: 18
+ - Sword (1d8)
+ - Brigandine with Breastplate (2 armor, bulky)
+
+#### Thugs (x2)
+HP: 5   Armor: 0  
+STR: 12   DEX: 10   WIL: 9
+ - Cudgel (1d6)
+
+After the thugs have been dealt with, the players will need to breach the door. They can do this with a simple STR save, or simply hacking it apart with their weapons. After they've breached the door, we continue:
+
+_You breach the weak door and push your way inside to find a few tables covered in scattered parchment and two panicked men hurriedly throwing everything they can into a freshly lit fire. Ervig manages to bark out "Eimgan City Guard! Put your hands up!" which causes both of them to drop what they were carrying any put their arms up, eyes wide in terror. Ervig turns to you and sharply says: "We don't have much time, search and seize everything you can!"_
+
+Within this shack, there's several items that could be important. The two panicked men can also be coerced into revealing hidden items. They will also make a run for it if there's a chance! Keep in mind Ervig can hold up to 6 inventory slots of items if the players are burdened.
+
+Items in plain sight:
+ - More Cryptic Letters on the Tables (1 slot)
+ - Stash of weapons (can't carry them all, but there's basic 1d8 and 1d6 weapons in there, swords, axes, daggers, etc)
+ - Scattered documents in plain text (1 slot)
+ - Partially burned documents (1 slot, only if they attempt to put out the fire somehow: water, smothering it, etc)
+
+ Hidden items:
+ - Small lockbox (bulky, 2 slots. If opened contains documents detailing how to read the Cryptic Letters, 1 slot)
+ - Ledgers of transactions (bulky, 2 slots)
+ - Rolled up maps of the City (1 slot)
+
+Towards the end of the search, more thugs will arrive. It will be tight quarters if they enter the shack, if players are smart they can keep them trapped in the fatal funnel of the door and fight them two on one, which could take advantage of the impaired/enhanced rule:
+
+#### Thugs (x3)
+HP: 3   Armor: 0  
+STR: 10   DEX: 11   WIL: 8
+ - Cudgel or Knife (1d6)
+
+After dispatching the thugs:
+
+_Ervig quickly surveys the chaos: "That will have to be good enough, let's get out of here before we're overwhelmed!" Burdened with whatever you could carry and still fight, you set out at a brisk walk in the direction of the Barracks. The streets are mercifully empty and you encounter no further resistance as you make your way out of the Slums. You all warily trudge back to the Barracks and wearily dump all the confiscated loot into the Duty Office. Ervig turns to you and speaks:_
+
+_"Thanks for your help, that could've been much worse but thankfully we caught them off guard. I think with everything we were able to snatch out of there, I should be able to continue my investigation, and hopefully find out what's the reason for all this secrecy and widespread discontent. I won't make you sort though this mess with me, you've been more than helpful. Vandil assigned you to me for the entire day, and I'm dismissing you, which means you're free the rest of the day. Collect your wages from the Duty Officer here, and of course visit the Infirmary if you're injured. Rest up, you'll be needed again soon."_ 
+
+### Search and Seizure: Conclusion
+By now it's about noon, and the players are on downtime until next morning.
 
 ## 8: Do You Wish To Continue?
 At this point in the Adventure, we're about to move onto the ending. If your players are having fun and don't want the adventure to end yet, this is a perfect point where you can can sort of "pause" the progress on the adventure as written, and continue doing your own Patrol assignments in the various Districts (Market, Residential, Dockside, Slums). Then you can continue onto the end of the adventure when you're ready!
