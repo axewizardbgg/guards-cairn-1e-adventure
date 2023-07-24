@@ -448,7 +448,7 @@ STR: 14   DEX: 13   WIL: 10
  - Chainmail Armor (Concealed beneath light robe): 2 Armor
  - Poison Dagger (1d6 damage, Critical Damage: Poisons target). If poisoned, the target must make a WIL save each turn until they succeed (even if unconscious). Upon failure, they take 1 additional damage that ignores Armor.
  - Throwing Daggers x3 (1d6, ranged)
- - Coin Purse containing 100 gold (-25 gold if bribe was given)
+ - Coin Purse containing 100 gold (minus any amount of any bribe given)
  - Cryptic Letter (the words make no sense, some type of code, unreadable)
 
 #### Relief Guards (3 total)
@@ -574,106 +574,26 @@ At this point in the Adventure, we're about to move onto the ending. If your pla
 
 I recommend asking the players what they want to do, but keep in mind that just because we're reaching the end of the written adventure, doesn't mean that the Players have to say goodbye to their characters if they don't want to. You're free to continue playing them, even in a different setting! It's all about what you all want to do together.
 
-## 9: Attacked Caravan
-This is assignment will be a bit more difficult, not only potentially for the players, but also you as the Warden. There is quite a lot of dialogue to be read aloud, and quite a few NPCs involved!
+## 9: The Fall of Marcomir
+In this scenario players will be assisting Ervig again, following up on his findings from the safehouse raid. It won't be as hectic as the last raid, this will be a search of a merchant's estate.
 
-_Morning arrives and you quickly busy yourself preparing for the day's assignment. You all stand around your assignment board staring at a small piece of parchment that simply says "Market District". You all make your last minute preparations, and then start to make your way to the Market District when you see both Captain Geberic and Lieutenant Vandil looking concerned speaking with a fellow guard who is slightly out of breath. Lieutenant Vandil notices you and and moves to intercept you._
+_Morning arrives and you're all awake and ready to go, however no assignment has been posted yet. You remember on your first day you were told to find Lieutenant Vandil if no assignment was posted. As one you all head to the main foyer where the various administrative offices are located. You arrive to find Marcomir angrily heading to the exit, where he turns around and yells in the direction of Geberic's office: "Mark my words, if he gets his way it will be the end of you!", and with that he storms out of the Barracks._
 
-_"Hold on please, I know I've assigned you to patrol the Market District today but I've a new assignment for you. Something just came up, follow me". He motions for your to follow and he walks back to Captain Geberic and the winded Guard. Geberic looks at you all as you approach, he greets you curtly: "Good, standby. We've got a situation here. Got another Unit coming too, once Kade here catches his breath he'll brief you all on what he knows and then you can be about it."_
+_You turn and look for Vandil's office and you find Geberic, Vandil, and Ervig exchanging worried looks. As you all approach Vandil looks up and speaks: "Ah, apologies for not posting your assignment on time, something came up. I appreciate you seeking me out though, most of your peers would've just taken the opportunity to sleep in...". Ervig pipes up: "Actually... I may be able to use their help again today if they're available, Vandil." Lieutenant Vandil gives Ervig a sharp look: "Another smash and grab operation? Absolutely not, such an overt action would only worsen the situation!"._
 
-_You wait for a minute or two in heavy silence as Kade's breathing slowly becomes normal, while Geberic stands with his arms crossed, eyes unfocused, stroking his mustache while thinking quietly to himself. Vandil stands at his side, keeping his silence for now. Footsteps are heard and 3 more familiar Guards arrive on the scene: The same 3 guards that you relieved from the Main Gate. Upon seeing you they flash a quick smile your way, the raven-haired woman giving a friendly greeting: "Well hello again, what trouble are we into today?"_
+_Ervig chuckles: "Oh no no, that worked for a run-down shack in the Slums, but I wouldn't dare use the same tactic on a private estate! No, I think something much more above-board, official, and civilized is in order." Ervig turns to Captain Geberic, who has been listening intently, keeping his silence: "Captain, would you say we have probable cause to conduct a search of the Henson Halmoor estate, in light of our recent findings from the decoded cryptic letters and the contents we were able to retrieve from raid?"_
 
-_Upon their arrival Geberic gives them a similar curt greeting that you received: "Good, we're all here. Kade, tell us what happened, what do we know?". Kade takes another deep breath and then speaks:_ 
+_Geberic meets Ervig's gaze, and remains silent for another moment before finally answering: "It depends. Depends on who would be judging our actions in the event things don't turn out in our favor. Everyone in my office, now." He immediately turns and enters his office, with Vandil and Ervig in tow. You all follow and file in. Geberic sits at his desk and says: "Close the door".
 
-_"Yes sir, me and my mates were assigned to the Main Gate, when a wounded merchant came galloping in, even his horse was wounded, almost didn't stop. Once we calmed the beast down we were able to help the man off the horse and before we could even start looking to his wounds he started yelling that he was attacked. Well we all pulled inside the gate quickly, Wilkes shut the gate, just in case they was chasing him. Brenn calmed the man down and started asking for specifics. We weren't able to get much out of his before he passed out, but I'll relay what we found out._ 
+_With a heavy sigh Geberic turns to look at you all, and speaks: "Let me get you up to speed on the situation. When you assisted Ervig on the safehouse raid, you were all able to seize valuable evidence. We've been able to decode the cryptic letters that have been found, and it paints an interesting picture. To put it bluntly: Someone has been fanning the flames of unrest here in Eimgan, stirring up the populace in an attempt at inciting a rebellion. Someone has been supplying arms to the downtrodden commonfolk, and I'm ashamed to admit that someone has managed to convince a surprisingly number of your peers to look the other way with substantial bribes."_
 
-_Their Caravan had about 3 wagons total, each drawn by 2 horses each. They were taken by surprise. Brenn asked the man if they had hired anyone to protect the caravan from attacks, and the man said he hired a few mercanaries but he didn't know what happened to them. Said one moment they were plodding along the main road, and the next there was screaming, and the horses panicked and started trying to run off, which lead to his wagon flipping over. Said he managed to cut off the harness from one of the horses and jump onto his back and ride back here. Brenn asked him where exactly this happened, and he said it was near the edge of the forest, which is just a few hours travel from here. Lieutenant Connor woke up from all the noise and told me to run back here and tell Captain Geberic. That's what we know right now, we're not sure how many attacked them, or even_ what _attacked them."_
+_"Someone with very deep pockets. As Ervig mentioned, we suspect Henson Halmoor, a prominent merchant here in the city. We found some coded letters that referenced someone called "The Benefactor" and although we've found nothing that directly links Henson Halmoor in this mess, there was an address that we decoded that is one of Halmoor's warehouses. Naturally we've already searched the warehouse but it was completely empty by the time we arrived." Geberic begins to massage his temples while he continues:_
 
-_Geberic turns to everyone: "That's the situation, I'm assigning your two squads to investigate what happened. If you find who was behind this attack and it's within your means to deal with them, do so. If you find yourself outnumbered, don't risk it, send a rider back to me immediately with a detailed report, and I'll make sure you get reinforcements."_
+_"You probably noticed Marcomir leaving in a particularly foul mood earlier, and for good reason. Halmoor has convinced the Magistrate that Marcomir is doing a terrible job, and has been making accusations of taking large amounts of levied taxes for himself, which of course isn't difficult to believe at all, you've seen the inside of his office. This rumor has also been spreading through the city, and angering the poor and destitute. We've had to station a few guards at the Tax and Excise Office full time. You may also know that we are funded by the Tax and Excise Office, and if Halmoor replaces Marcomir as the Head of Treasury, then we may not have the resources to do our duty of keeping the people of Eimgan safe."_ 
 
-_He turns to the other squad: "Erika, Euric, Gundiok, I know you three have senority and normally I'd put you lot in charge, but this time I'm going to put them in charge." He look over at you: "They haven't been here long and already they've proven extremely capable." He addresses everyone: "Get yourselves ready for a hurried march. If you're lacking weaponry, go see Quartermaster Berig and he'll issue you additional arms and rations should you need it. You leave immediately. Dismissed." He motions for you all to go about your business. As you leave you can hear him giving orders to Kade telling him to reopen the gate but be on alert._
+_Geberic exhales as he stands, and pauses, carefully considering is words: "Look here's the reality. If we search Halmoor's Estate and we find nothing, it only fuels the unrest, potentially turning the people we're sworn to protect against us. If we do nothing and Halmoor is appointed Head of Treasury, then I honestly don't know what would happen. At the very least, we'd be out of job. At the very worst, we'd be tried as traitors and either be executed or rot in a cell for the rest of our lives." he looks to everyone in the room: "With that in mind, do you still feel we should conduct a search on Halmoor's home?"_
 
-_As you all head back to your quarters to prepare, the other squad approches, the raven-haired woman speaks: "Sounds like you lot call the shots, we never got the introduce ourselves when you relieved us from the Main Gate yesterday. This is Euric, he don't talk much around strangers so we usually make him play "bad guard", but he's a good one." Euric is a rugged man, thin wispy hair with kind, but hard eyes. He has a few scars on his face, and it looks like his nose was broken and never set properly. He smiles and gives a friendly wave._
-
-_She gestures to the larger man, barrel chested, hairy, and rather than a sword he carried a warhammer. "This big brute is Gundiok, but you can call him Gundy, despite his looks he's a gentle soul. Well, he's gentle when he's not swinging that gigantic headache-on-a-stick that is." Gundiok's lips crack back to reveal a smile of broken teeth._
-
-_She turns from "Gundy" and then continues: "And then that leaves me. I'm Erika, they usually let me do the talking since most folks seem to be more willing to talk to me, but don't think that just because I'm a woman that I can't hold my own in a fight." Despite her pleasant demeanor, your can see she is also sporting a few scars herself. "Anyway we introduced ourselves, who are you?"_
-
-Give the players a chance to introduce themselves (if they wish)
-
-_"Must be kind of a big deal to make Geberic decide to put you in charge over us. Don't worry though, we don't mind following, just don't get us killed ok? We need to look out for all of us, and we need to find out who or what was behind this attack. We'll get kitted out and meet you back here when you're ready to set out. We need to hurry!". With that she turns and follows Euric and Gundiok back to their quarters to prepare, and you should do the same._
-
-At this point the players can do whatever they wish to prepare. If they wish to see Quartermaster Berig for additional supplies, he can issue them Helmets (1 armor), Shields (1 armor), Swords (1d8), and Bows (1d6, bulky) should they wish it, as well as 3 days of rations (1 slot)
-
-Once everything is ready, they can set out. Travel is fairly straightforward:
- - Should only take a few hours to get to the scene of the attack
- - Time will be about mid-afternoon
- - Weather will be overcast
-
-Once they arrive on scene, read the following aloud:
-
-_You see the edge of the forest becoming clearer, everyone keenly scanning for signs of any threat. Behind you, you hear a snapping sound, and turn to see Gundiok gingerly lifting his boot off of whatever he just stepped on. Erika rushes over and picks it up. She holds up a broken crossbow bolt._
-
-_"Gundy just stepped on this, it was jutting out of the ground in the middle of the road, like it was fired from that direction." she points up ahead. "Wonder if they were trying to kill the merchant who ran. Either way it looks like we're in range of attack now, so be ready." Her tone softens a bit as she sheepishly says "Sorry, used to only working with Euric and Gundy here, you're in charge, so what's the plan?"_ 
-
-From here the players can decide how best to move forward. Here are the key details of what they'll find up ahead:
- - The 3 wagons are still there, many crossbow bolts are sticking out of the sides of them.
- - The only corpses that are there are but a few horses that appeared to have caught a few stray bolts.
- - All of the cargo in the wagons appears to still remain there, untouched.
- - Among the untouched cargo, is another Cryptic Letter (the words make no sense, some type of code, unreadable)
- - Wide trails can be found in the forest, as if a large number of people moved as a group through it.
-
-Once the players have gathered as much info as they can and had a chance to discuss it amongst themselves, read the following aloud:
-
-_You all regroup to share your findings. Euric speaks up, taking a break from furiously scribbling notes he was taking: "It's wrong. None of this makes sense." Gundiok grunts in agreement, his eyes surveilling the surroundings for any further danger. Erika also speaks up "All the wagons are here, all the goods are untouched, there's not a single corpse, I wasn't even able to determine if there was a struggle at all. And why crossbows? Judging by how many bolts were fired, and by all that crushed undergroth beyond the tree line... I'd say there were at least 20 of them. But where are the other merchants? Where are the mercanaries they hired to protect them? What do these Cryptic Letters mean? We've been finding them all over lately. This all feels off."_
-
-_As Erika trails off, Euric speaks again: "We're also faced with a tough decision. There's only a few of us. We're outnumbered, but we're sorely lacking in information. Geberic said to send word back for reinforcements if it was beyond us, but at this point we don't know enough. We know we're up against at least 20 or so crossbows, but who wields them? Why attack this caravan and not take any of the loot? Why weren't we able to find bodies, or even any signs of a real struggle? This resembles casual target practice rather than combat, and a few poor horses suffered the most, but the others must've ran off. We need to know more." Erika nods in agreement, she chimes in: "I agree with Euric, we need to know more, but I'm hesitant to follow the trail knowing we're outnumbered."_
-
-_Your thoughts are suddenly interrupted, you feel the ground shake slightly, and hear a thud in the forest. You all look to one another to see if you experienced it to, then another thud. Suddenly an angry Forest Troll emerges from the forest, roaring and running right at you! Erika shouts: "Everyone spread out, try to keep distance and we'll bring this brute down!"
-
-#### Forest Troll
-HP: 12   Armor: 0  
-STR: 15   DEX: 12   WIL: 7
- - Claws (1d6 blast)
- - Bite (1d8)
-
-#### Erika
-HP: 5   Armor: 1  
-STR: 10   DEX: 14   WIL: 12  
- - Sword (1d8)
- - Bow (1d6)
-
-#### Euric
-HP: 4   Armor: 1  
-STR: 9   DEX: 15   WIL: 13
- - Sword (1d8)
- - Bow (1d6)
-
-#### Gundiok
-HP: 6   Armor: 1  
-STR: 14   DEX: 9   WIL: 7
- - Warhammer (1d10, bulky)
-
-### Attacked Caravan: Conclusion
-Give the players a chance to rest and recover their HP, Erika's team can help heal any critical damage if they're still alive. Then read the following aloud:
-
-_Gundiok suddenly speaks in an urgent gruff tone: "Something is wrong". He points his meaty hairy arm back in the direction of Eimgan: "Look!" Thick black clouds of smoke are beginning to rise up over Eimgan. Erika, Euric, and Gundiok exchange worried glances with eachother and all of you. Erika says in a shaking voice: "What is happening?" She looks to you all: "We have to get back to the city!"_
-
-## 10: The Attack on Eimgan
-TODO: Here's what I'm thinking:
- - The people have risen up and killed Marcomir
- - Geberic tried to stop it from happening, and the populace turned on the Guard
- - Widespread riots are rampant, Geberic is holding the Barracks protecting what innocents he can with what few guards he has left
-
-When the players arrive, it's chaos in the streets.
- - There will be innocents fleeing the chaos
- - Occasional rioters will attack the players on their way to the barracks
- - Once they reach the barracks they'll get updated on the situation by Geberic
- - Geberic is melancholy, thinks they failed in their oaths
- - Many guards have died, there's not many left
- - The barracks is packed with innocent refugees seeking protection from the chaos
- - One among them is a traitor
- - The plan is to break out and get the refugees outside the city, and seek refuge in Clurgh or Ontstead
+_Ervig immediately responds: "So it's do or die then. My mind is unchanged, I feel our best chance is to search the Halmoor Estate
 
 
 
@@ -694,8 +614,7 @@ When the players arrive, it's chaos in the streets.
 4. Use befunky's text tool:
    - Fonts: "The Art of Illuminating" for titles, "Lora" for normal text
    - Font Sizes: 18, 24, and 48
-5. Once page is completed, save the project on befunky
-   - TODO: Also export the project locally and get them in version control
+5. Once page is completed, save the project locally and on befunky
 6. Export as PDF
 7. Combine individual exported PDFs using https://combinepdf.com
 8. Once I have a combined PDF, I make it booklet format using https://online2pdf.com/create-booklet-flipbook#
