@@ -598,36 +598,3 @@ _Ervig immediately responds: "So it's do or die then. My mind is unchanged, I fe
 
 
 
-# Sources and Credits info
- - Adventure created and written by AxeWizard
- - All art and layout made possible with https://www.befunky.com/create/
- - Map art created with https://watabou.github.io/city.html (and modified in befunky)
- - Character art created with Heroforge (and modified in befunky)
- - Some art is screenshots from areas in Valheim that I made (and modified in befunky)
-
-# Misc Notes
-
-## Current editing process
-1. Use befunky and load an image of a white background that is 1000x1294 (8.5 x 11 paper aspect ratio)
-2. Use tools such as HeroForge, etc to create some art
-3. Use remove.bg to cleanly remove background from character art
-4. Import art into befunky, edit images, apply art filters
-   - All art uses either "Graphic Novel DLX" or "Cross Hatch DLX" filter
-   - If a shadow is needed, typically use the following:
-     - Color: #C9C6C0
-     - Distance: 0px
-     - Blur: 54px
-     - Size: 100%
-     - Density: 16%
-     - Opacity: 100%
-5. Use befunky's text tool:
-   - Fonts: "The Art of Illuminating" for titles, "Lora" for normal text
-   - Font Sizes: 18, 24, and 48
-   - For text to be read aloud, use Italic, and add background color of #EBEBEB
-6. Once page is completed, save the project locally and on befunky
-7. Export as PDF
-8. Combine individual exported PDFs using https://combinepdf.com
-9. Once I have a combined PDF, I make it booklet format using https://online2pdf.com/create-booklet-flipbook#
-10. Profit??
-11. TODO: Once final product is ready, tag a release and include finished files
-
