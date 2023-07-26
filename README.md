@@ -19,6 +19,7 @@ Visit the releases (TODO: Create a link) and download the latest release in eith
  - Map art created with https://watabou.github.io/city.html (and modified in befunky)
  - Character art created by AxeWizard with Heroforge (and modified in befunky)
  - Some art is screenshots from areas in Valheim made by AxeWizard (and modified in befunky)
+ - A free interior map from https://2minutetabletop.com/product/halloween-haunted-estate-map-pack/ was used
 
 ## Current editing process
 1. Use befunky and load an image of a white background that is 1000x1294 (8.5 x 11 paper aspect ratio)

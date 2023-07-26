@@ -576,6 +576,8 @@ I recommend asking the players what they want to do, but keep in mind that just 
 
 ## 9: Into the Lion's Den
 In this scenario players will be assisting Ervig again, following up on his findings from the safehouse raid. It won't be as hectic as the last raid, this will be a search of a merchant's estate.
+ - Players will be searching room by room
+ - TODO
 
 _Morning arrives and you're all awake and ready to go, however no assignment has been posted yet. You remember on your first day you were told to find Lieutenant Vandil if no assignment was posted. As one you all head to the main foyer where the various administrative offices are located. You arrive to find Marcomir angrily heading to the exit, where he turns around and yells in the direction of Geberic's office: "Mark my words, if he gets his way it will be the end of you!", and with that he storms out of the Barracks._
 
@@ -585,15 +587,77 @@ _Ervig chuckles: "Oh no no, that worked for a run-down shack in the Slums, but I
 
 _Geberic meets Ervig's gaze, and remains silent for another moment before finally answering: "It depends. Depends on who would be judging our actions in the event things don't turn out in our favor. Everyone in my office, now." He immediately turns and enters his office, with Vandil and Ervig in tow. You all follow and file in. Geberic sits at his desk and says: "Close the door".
 
-_With a heavy sigh Geberic turns to look at you all, and speaks: "Let me get you up to speed on the situation. When you assisted Ervig on the safehouse raid, you were all able to seize valuable evidence. We've been able to decode the cryptic letters that have been found, and it paints an interesting picture. To put it bluntly: Someone has been fanning the flames of unrest here in Eimgan, stirring up the populace in an attempt at inciting a rebellion. Someone has been supplying arms to the downtrodden commonfolk, and I'm ashamed to admit that someone has managed to convince a surprisingly number of your peers to look the other way with substantial bribes."_
+_With a heavy sigh Geberic turns to look at you all, and speaks: "Let me get you up to speed on the situation. When you assisted Ervig on the safehouse raid, you were able to seize valuable evidence. We've been able to decode the cryptic letters that have been found, and it paints an interesting picture. To put it bluntly: Someone has been fanning the flames of unrest here in Eimgan, stirring up the populace in an attempt to incite a rebellion. Someone has been supplying arms to the downtrodden commonfolk, and I'm ashamed to admit that someone has managed to convince a surprising number of your peers to look the other way with substantial bribes."_
 
 _"Someone with very deep pockets. As Ervig mentioned, we suspect Henson Halmoor, a prominent merchant here in the city. We found some coded letters that referenced someone called "The Benefactor" and although we've found nothing that directly links Henson Halmoor in this mess, there was an address that we decoded that is one of Halmoor's warehouses. Naturally we've already searched the warehouse but it was completely empty by the time we arrived." Geberic begins to massage his temples while he continues:_
 
-_"You probably noticed Marcomir leaving in a particularly foul mood earlier, and for good reason. Halmoor has convinced the Magistrate that Marcomir is doing a terrible job, and has been making accusations of taking large amounts of levied taxes for himself, which of course isn't difficult to believe at all, you've seen the inside of his office. This rumor has also been spreading through the city, and angering the poor and destitute. We've had to station a few guards at the Tax and Excise Office full time. You may also know that we are funded by the Tax and Excise Office, and if Halmoor replaces Marcomir as the Head of Treasury, then we may not have the resources to do our duty of keeping the people of Eimgan safe."_ 
+_"You probably noticed Marcomir leaving in a particularly foul mood earlier, and for good reason. Halmoor has convinced the Magistrate that Marcomir is doing a terrible job, and has been making accusations of taking large amounts of levied taxes for himself, which of course isn't difficult to believe at all, you've seen the inside of his office. We've investigated this of course, much to the outrage of Marcomir, however everything checks out. His pay is signed off by the Magistrate herself, and everything is accounted for."_
 
-_Geberic exhales as he stands, and pauses, carefully considering is words: "Look here's the reality. If we search Halmoor's Estate and we find nothing, it only fuels the unrest, potentially turning the people we're sworn to protect against us. If we do nothing and Halmoor is appointed Head of Treasury, then I honestly don't know what would happen. At the very least, we'd be out of job. At the very worst, we'd be tried as traitors and either be executed or rot in a cell for the rest of our lives." he looks to everyone in the room: "With that in mind, do you still feel we should conduct a search on Halmoor's home?"_
+_Geberic leans back in his chair and continues: "This rumor has also been spreading through the city, and angering the poor and destitute. We've had to station a few guards at the Tax and Excise Office full time. You may also know that we are funded by the Tax and Excise Office, and if Halmoor replaces Marcomir as the Head of Treasury, then we may not have the resources to do our duty of keeping the people of Eimgan safe."_ 
 
-_Ervig immediately responds: "So it's do or die then. My mind is unchanged, I feel our best chance is to search the Halmoor Estate
+_Geberic exhales as he stands, and pauses, carefully considering his words: "Here's the reality: If we search Halmoor's Estate and we find nothing, it only fuels the unrest, potentially turning the people we're sworn to protect against us. If we do nothing and Halmoor is appointed Head of Treasury, then I honestly don't know what would happen. At the very least, we'd be out of job. At the very worst, we'd be tried as traitors and either be executed or rot in a cell for the rest of our lives." he looks to everyone in the room, and then at Ervig: "With that in mind, do you still feel we should conduct a search on Halmoor's home?" Ervig pauses a moment before answering with a nod: "Yes, Captain, I do."_
+
+_Vandil speaks up: "Shall I draft an official search warrant for this auspicious occasion, Captain?" Geberic nods: "Yes, good thinking Vandil, thank you." He turns to Ervig once more: "What resources will you need to conduct this search?" Ervig answers without hesitation: "Just these fine guards at my back" he gestures to you all "and that fancy warrant to make it all official." Geberic chuckles and says: "Hah, so be it. You know what must be done so I'll leave you to it." he turns to you all: "Stick with Ervig and do us proud. Return to your quarters and make your preparations. I'll send Ervig to you once I've finished with him. Dismissed."_
+
+Now players can make last minute inventory adjustments before they set out. 
+
+_Ervig enters your quarters without knocking: "Alright well we know the stakes, let me give you a rundown on what to expect. This isn't like the raid in the Slums, there isn't going to be thugs rushing at us, and there's no time constraint. This is going to be excrutiatingly civil. Halmoor won't outright refuse any reasonable request, but he isn't going to make it easy for us. He's not stupid, so it we find something and it seems extremely convenient, it most likely means he wanted us to find it."_
+
+_After a brief pause to think, Ervig continues: "I also highly advise we all stick together, and never lose eyesight of one another. Let me handle Halmoor, if we make any mistakes he'll take advantage of it. I think the best approach is to have you all searching, I'll be keeping an eye on Halmoor and any servants he has on hand, as well as keeping notes on anything we confiscate from him. We'll go room by room and search anything and everything. Any last questions before we make our way to the Halmoor Estate?"_
+
+Players can ask any questions or make last minute adjustments, once they are ready, we continue:
+
+_Ervig nods: "It's time, let's move." You head out as one, up the main street that separates the Market and Residential Districts, and then turn right to go deeper into the Residential District. As you walk you notice how your surroundings change, walking past small houses, and then larger houses, and now walking past manors with gated yards. Ervig leads you up to one of the largest manors, through an ornamental archway, and up the steps to the front door. He casts a sidelong glance at you and mutters "Here we go." and pounds loudly on the door with his fist. He shouts "Eimgan City Guard!" and takes a step back to wait for the door to open._
+
+_After a few moments, the door opens to reveal a balding bearded man in a tabard with a confused smile: "Greetings protectors of Eimgan, welcome to the Halmoore Estate, uh how may I assist you?" he asks, clearly uncomfortable. Ervig hands him the warrant and says: "We've been authorized to conduct a search of the Halmoore Estate. I trust we'll have your full cooperation?"_
+
+_The servant gingerly takes the warrant and stutters as he beings to read it: "W-well of course, I've no d-doubt the master will of course c-comply, i-if I may of course fetch him for you?" Before Ervig could respond, a jovial voice is heard behind the servant: "That won't be necessary my dear Teias", the servant quickly turns and bows, revealing a man approaching from behind him. The man sports a well trimmed goatee, and a dashing head of hair, wearing a flowing silk robe with rolled up sleeves, and an ornate sword sheathed at his hip. His face beaming as he gently takes the warrant from his servant: "It goes without saying that I will of course offer my full cooperation in this endeavor! Please, come in, and be welcome!"_
+
+_Halmoor gestures and stands aside to allow you all to enter. You find yourself in what appears to be a waiting room, several ornate chairs and potted plants line the walls either side of the ornate door leading into the manor proper. Teias the servant turns to Halmoor and asks: "Shall I fetch refreshments for our guests?" who replies: "Not yet my good man, but thank you for asking." Halmoor turns to Ervig: "You have the look of one in charge, how may we best assist you my good sir?" he asks with a warm smile, as though he was greeting an old friend rather than being investigated by the authorities._
+
+_Ervig returns a warm smiles and says: "The City Guard thank you for your warm reception and your courtesy Mr. Halmoor. I regret to say that we're here to conduct a search of your beautiful home. To ensure the best experience for both parties, I humbly request we conduct this search jointly, so that we may avoid any misunderstandings. In the event that we confiscate any of your effects, they will be catalogued and returned upon conclusion of any ongoing investigation or trial. We apologize for this inconvenience, and appreciate your understanding in this matter. Do you have anything to declare before we begin our search?"_
+
+_Halmoor's smile widens as he answers: "Very good. The only thing I have to declare is you may find hidden stashes of coin and gems, all legitimately acquired and accounted for of course. They're safely tucked away in the event of a robbery, as well as maybe a few concealed weapons for protection. I see nothing in this warrant stating you'll need to confiscate such possessions, so I object to their confiscation. That being said, my servant and I shall remain on hand to assist you in this endeavor. Where would you like to begin your search?"_
+
+_Ervig bows slightly and says: "Thank you for your cooperation. We'll begin our search here." Halmoor laughs: "The very soul of professionalism, bravo! Very well, search away!" Ervig turns to you all and gives the nod to get started searching. He walks to one side of the room and starts gently lifting cushions and searching anything in this room. You all spread out and start your search._
+
+From here, players will be conducting and room-to-room search for anything out of the ordinary with Ervig, while Halmoor and Teias are watching. 
+ - Teias and Ervig will be documenting anything that is found and taken by the players.
+ - The Warden should keep a list of things found should players wish to review.
+ - Each room will have a few things the players might find or notice, but not everything will be useful.
+ - Halmoor is always smiling and courteous, and never betrays any hint of worry, fear, or frustration.
+ - Halmoor will strongly object to any gems or coins being taken, and Ervig will tell the players to leave it be.
+ - If Halmoor is asked a question, he was try to respond with as much useless detail as possible, such as old history, personal anecdotes, etc
+ - Halmoor will make note of any wrongdoing the players may try to do (such as planting false evidence), but keep it to himself unless the players try to make a big deal out of it.
+ - Important findings to the narrative will be marked with (Key Item)
+ - Every item occupies 1 inventory slot if they wish to confiscate it. (Unless bulky is specified)
+
+### 1: Waiting Room
+Chairs, Benches, and Plants line the walls.
+ - There's a dagger hidden in one of the plants. 
+ - In the base of the chandelier there is a small stash of gems.
+
+### 2: Great Hall
+The main chamber of the manor, has a large table and seating for 10, various paintings and decor. There are 5 doors in this room that lead to the Kitchens, Study, Lounge, Storage, and Bedroom
+ - At the head of the table, underneath by one of the table leg bracing, there is a concealed Dagger.
+ - Behind a painting, there is some sort of letter that appears to be written to Henson from his father Hendon (Key Item).
+
+### 3: Kitchens
+Kitchens contain several ovens and counters where Teias prepares meals. There are 2 Doors that lead to the Great Hall and the Pantry
+ - Rare and expensive spices
+
+### 4: Pantry
+The pantry directly adjoins the Kitchens, and houses many sacks, crates, and barrels.
+ - A coin pouch concealed in a sack of flour
+ - A plain unadorned scimitar on a top shelf
+ - A collection of rare and expensive wine vintages
+
+### 5: Study
+The Study is Henson's office, an ornate desk, lavish chairs, packed bookshelves, locked display cases with rarities, and heavy locked chest are present in the room. Has several large windows with a view of the entrance to the estate. Only one door leading back to the Great Hall.
+ - Henson will unlock the chest and display cases upon request.
+ - A several ledgers are stacked on his desk in plain sight. (Key Item, bulky)
+ - A stash of journals can be found in a false bottom in the chest underneath loads of gold and gems (Key Item, bulky). Nothing of immediate relevant interest is found in the contents if a player reads it.
+ - Cryptic letters can be found in a false bottom in one of the display cases. (Key Item)
 
 
 
