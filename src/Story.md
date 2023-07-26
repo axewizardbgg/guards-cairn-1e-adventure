@@ -603,7 +603,7 @@ Now players can make last minute inventory adjustments before they set out.
 
 _Ervig enters your quarters without knocking: "Alright well we know the stakes, let me give you a rundown on what to expect. This isn't like the raid in the Slums, there isn't going to be thugs rushing at us, and there's no time constraint. This is going to be excrutiatingly civil. Halmoor won't outright refuse any reasonable request, but he isn't going to make it easy for us. He's not stupid, so it we find something and it seems extremely convenient, it most likely means he wanted us to find it."_
 
-_After a brief pause to think, Ervig continues: "I also highly advise we all stick together, and never lose eyesight of one another. Let me handle Halmoor, if we make any mistakes he'll take advantage of it. I think the best approach is to have you all searching, I'll be keeping an eye on Halmoor and any servants he has on hand, as well as keeping notes on anything we confiscate from him. We'll go room by room and search anything and everything. Any last questions before we make our way to the Halmoor Estate?"_
+_After a brief pause to think, Ervig continues: "I also highly advise we all stick together, and never lose eyesight of one another. Let me handle Halmoor, if we make any mistakes he'll take advantage of it, so don't try to steal anything from him or it will just end up badly for all of us. I think the best approach is to have you all searching, I'll be keeping an eye on Halmoor and any servants he has on hand, as well as keeping notes on anything we confiscate from him. We'll go room by room and search anything and everything. Any last questions before we make our way to the Halmoor Estate?"_
 
 Players can ask any questions or make last minute adjustments, once they are ready, we continue:
 
@@ -629,36 +629,130 @@ From here, players will be conducting and room-to-room search for anything out o
  - Halmoor will strongly object to any gems or coins being taken, and Ervig will tell the players to leave it be.
  - If Halmoor is asked a question, he was try to respond with as much useless detail as possible, such as old history, personal anecdotes, etc
  - Halmoor will make note of any wrongdoing the players may try to do (such as planting false evidence), but keep it to himself unless the players try to make a big deal out of it.
- - Important findings to the narrative will be marked with (Key Item)
+ - Important findings to the narrative will be marked with (Key Item), and Ervig will tell the players to confiscate it.
  - Every item occupies 1 inventory slot if they wish to confiscate it. (Unless bulky is specified)
+ - Ervig can hold up to 6 slots if needed
 
-### 1: Waiting Room
+### Waiting Room
 Chairs, Benches, and Plants line the walls.
  - There's a dagger hidden in one of the plants. 
  - In the base of the chandelier there is a small stash of gems.
 
-### 2: Great Hall
-The main chamber of the manor, has a large table and seating for 10, various paintings and decor. There are 5 doors in this room that lead to the Kitchens, Study, Lounge, Storage, and Bedroom
+### Great Hall
+Upon first entry:
+
+_Halmoor leads you into the main chamber of the manor and says: "Welcome to what I call the 'Great Hall', I often have guests over and it's important to make an impression." Before you is a large table with many high backed chairs on either side, and an ornate chair at the head of the table. The walls are adorned with various paintings and decorations, and there are many Doors that lead to other parts of the manor.
+
+Things of note:
  - At the head of the table, underneath by one of the table leg bracing, there is a concealed Dagger.
- - Behind a painting, there is some sort of letter that appears to be written to Henson from his father Hendon (Key Item).
+ - Behind a painting, there is some sort of letter that appears to be written to Halmoor from his father (Key Item).
 
-### 3: Kitchens
-Kitchens contain several ovens and counters where Teias prepares meals. There are 2 Doors that lead to the Great Hall and the Pantry
+### Kitchens
+Upon first entry:
+
+_Teias leads the way into the Kitchens: "This is where I prepare meals for the Master and his Guests". Inside the Kitchens there are several ovens, a small firepit with a hanging pot, several countertops, and a small Well for a water supply._
+
+Items of note:
  - Rare and expensive spices
+ - Cupboards full of expensive diningware (cups, plates, silverware, etc)
 
-### 4: Pantry
-The pantry directly adjoins the Kitchens, and houses many sacks, crates, and barrels.
+### Pantry
+Upon first entry:
+
+_Teias opens the door to the Pantry, after a few moments he lights a lantern and steps aside: "This is the Pantry, where food and beverages are stored of course". It is unlit save for the lantern light, and in the dim dark there are many sacks, crates, and barrels that can be seen, as well as a small wine rack with a few bottles glinting in the light._
+
+Items of note:
  - A coin pouch concealed in a sack of flour
  - A plain unadorned scimitar on a top shelf
  - A collection of rare and expensive wine vintages
 
-### 5: Study
-The Study is Henson's office, an ornate desk, lavish chairs, packed bookshelves, locked display cases with rarities, and heavy locked chest are present in the room. Has several large windows with a view of the entrance to the estate. Only one door leading back to the Great Hall.
- - Henson will unlock the chest and display cases upon request.
+### Study
+Upon first entry:
+
+_Halmoor leads the way into a large well-lit room that appears to be some sort of office. Natural light floods in from the large windows that overlook the street and the gate entrance of the estate property. An ornate desk surrounded by lavish chairs seems to be the centerpiece, the walls are lined with packed bookshelves or display cases containing rarities, and a heavy locked chest sits below the window.
+
+Items of note:
+ - Halmoor will unlock the chest and display cases upon request.
  - A several ledgers are stacked on his desk in plain sight. (Key Item, bulky)
- - A stash of journals can be found in a false bottom in the chest underneath loads of gold and gems (Key Item, bulky). Nothing of immediate relevant interest is found in the contents if a player reads it.
+ - A stash of journals can be found in a false bottom in the chest underneath loads of gold and gems which are sorted in manageable pouches (Key Item, bulky). Nothing of immediate relevant interest is found in the contents if a player reads it.
  - Cryptic letters can be found in a false bottom in one of the display cases. (Key Item)
 
+### Guest Bedroom
+Upon first entry:
+
+_Teias leads you into a relatively sparse bedroom compared to the rest of the manor: "This is our Guest Bedroom". The room contains a fairly ordinary bed, a small desk, a night stand, and a few sparse and simple decorations._
+
+Items of note:
+ - None
+
+### Servant's Quarters
+Upon first entry:
+
+_Teias leads the way into a very small room: "These are my private quarters, the master is gracious enough to allow me to live in his beautiful home so that I may better serve him.". Inside there is a small cot, a small desk, and a simple wooden stool._
+
+Items of note:
+ - Tucked behind the cot is a concealed dagger.
+ - On the desk there is a small book which Teias uses to log his duties. (Key Item)
+
+### Master Bedroom
+Upon first entry:
+
+_Halmoor leads you into a large, lavish, and well-lit bedroom: "Here are my private chambers, I've every confidence you will carry out your search with respect of my personal possessions." In the center of the room there is a very large ornate bed. Large windows allow natural light to crack through the partially-drawn curtains to illuminate multiple dressers, a few desks, and some decorations along the walls. In the center of the largest wall there is a decoration of a Golden Merchant's Scale that appears to represent the Halmoor's insignia._
+
+Items of note:
+ - The wall decoration of the  Merchant's Scale is tipped on the right side. If a player tips the other side so it is balanced, they will hear and feel a click. (This releases the lock on the Bed frame and allows it to easily roll out of the way if pushed)
+ - In the desks there are some letters written to Halmoor from various other merchants. (Key Item)
+ - Underneath Halmoor's bed is a hidden and secret trap door that leads to a small basement room.
+ - Players cannot see underneath the bed frame, and if they try to move it they will find it is affixed to the floor.
+
+### Lounge
+Upon first entry:
+
+_Teias leads you into a large dimly-lit room: "Here is the Lounge, where the Master and his guests can be entertained.". There are several comfortable padded chairs gathered around a small stage, with various music instruments resting on stands. A small bookshelf sits against a wall that is adorned by several paintings._
+
+Items of note:
+ - In the pages of one of the books, is a scandalous letter that appears to be from one of Halmoor's lovers.
+
+### Hidden Vault
+Upon discovery of the hidden trap door:
+
+_Halmoor forces a smile as you easily roll the now-moveable bed out of the way to reveal a hidden trap door. "Ah, I didn't expect you to find this, well done!" You pull open the trap door to reveal a latter descending into a small room that is faintly lit by the natural light from the bedroom window. From above, you see several chests and a shelf._
+
+Items of note:
+ - Many chests loaded with hundreds of pouches containing coins and gems.
+ - Stacks of Cryptic Letters. (Key Item, bulky)
+ - A small book that details a newer more advanced cipher key for the Cryptic Letters (Key Item)
+ - A stack of Ledgers (Key Item, bulky) These seem to have more detail than the ones found in the Study
+
+## Into the Lion's Den Conclusion:
+Once the players have completed the search to the best of their ability, read the following aloud:
+
+_With the hour growing late and your search complete, Ervig, Teias, and Halmoor compare lists of the comfiscated items to ensure there are no descrepancies. Upon finding none, Ervig bows slightly to Halmoor and says: "Thank you once again for your cooperation in this matter. Enjoy the rest of your day." With that, you all journey back to the Barracks to the familiar confines of the Duty Office_
+
+_Ervig helps you unload all the confiscated items on the desk and does one last verification with his list to ensure everything is there. Once completed, he turns to you all and breaths a sigh of relief: "Thank you once again for your help, to be honest I would've much preferred another Slums safehouse raid." He chuckles and continues: "Here take this." Ervig hands each of you 20 gold. "Vandil authorized a bonus for us since it is such a high-profile assignment, and with that you're released and can go rest."_
+
+## The End
+Determine which ending to read aloud based on the findings of the search:
+
+If Halmoor's hidden vault was found and searched:
+
+_In the days that followed the Search of the Halmoor Estate, Ervig, Vandil, and Geberic labored to decode and organize the evidance against Halmoor, who was brought to trial before the Magistrate. Unable to mount a credible defense under the weight of the evidence, the Magistrate judged him guilty, ordered him imprisoned, and seized his assets._
+
+_Directly after Halmoor's sentencing, Marcomir received a promotion from the Magistrate. This resulted in the tax rate being raised, and the immediate disbanding of the Guards despite the protests of Captain Geberic and Lieutenant Vandil. The question of who will protect the people if the Guards are no more was quickly answered as outsourced Mercanaries assumed the mantle of "Protectors" of Eimgan, however they were far more concerned extorting taxes from the people rather than maintaining law and order._
+
+_Suddenly unemployed, you're now free to do as you will. What adventures await you? Will you resist Marcomir's treachery and fight to restore the Guards? Will you find your fortune elsewhere? Or perhaps you'll save the world against an ancient evil? Whatever you choose to do, you know that you're much more prepared for whatever lay ahead than you were a few short weeks ago._
 
 
+If the players failed to search the hidden vault:
+
+_In the days that followed the Search of the Halmoor Estate, Ervig, Vandil, and Geberic labored to decode and organize the evidence against Halmoor, however there simply was nothing solid that implicated Halmoor beyond a shadow of a doubt, so no Trial was held. Later, for unknown reasons Marcomir resigned from his role as Head of Treasury, and the Magistrate appointed Halmoor in his stead._
+
+_Upon being appointed Head of Treasury, Halmoor immediately ceased all funding of the City Guard, and instead outsourced a band of Mercanaries to assume the role of "Protectors" of Eimgan. Geberic was immediately arrested, and every Guard was out of a job. Halmoor increased the tax rate and used his Mercanaries to arrest anyone who spoke out against him._
+
+_Suddenly unemployed, you're now free to do as you will. What adventures await you? Will you resist Halmoor's treachery and try to rescue Geberic? Will you find your fortune elsewhere? Or perhaps you'll save the world against an ancient evil? Whatever you choose to do, you know that you're much more prepared for whatever lay ahead than you were a few short weeks ago._
+
+## Thank you
+Thank you for playing Guards! I hope you enjoyed the adventure! 
+
+(sources and credits info here)
 
