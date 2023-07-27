@@ -577,15 +577,15 @@ I recommend asking the players what they want to do, but keep in mind that just 
 ## 9: Into the Lion's Den
 In this scenario players will be assisting Ervig again, following up on his findings from the safehouse raid. It won't be as hectic as the last raid, this will be a search of a merchant's estate.
  - Players will be searching room by room
- - TODO
+ - Players should be on the lookout for any secrets or anything that can be used as evidence against Halmoor
 
 _Morning arrives and you're all awake and ready to go, however no assignment has been posted yet. You remember on your first day you were told to find Lieutenant Vandil if no assignment was posted. As one you all head to the main foyer where the various administrative offices are located. You arrive to find Marcomir angrily heading to the exit, where he turns around and yells in the direction of Geberic's office: "Mark my words, if he gets his way it will be the end of you!", and with that he storms out of the Barracks._
 
-_You turn and look for Vandil's office and you find Geberic, Vandil, and Ervig exchanging worried looks. As you all approach Vandil looks up and speaks: "Ah, apologies for not posting your assignment on time, something came up. I appreciate you seeking me out though, most of your peers would've just taken the opportunity to sleep in...". Ervig pipes up: "Actually... I may be able to use their help again today if they're available, Vandil." Lieutenant Vandil gives Ervig a sharp look: "Another smash and grab operation? Absolutely not, such an overt action would only worsen the situation!"._
+_You turn and look for Vandil's office and you find Geberic, Vandil, and Ervig exchanging worried looks. As you all approach Vandil looks up and speaks: "Ah, apologies for not posting your assignment on time, something came up. I appreciate you seeking me out though, most of your peers would've just taken the opportunity to sleep in...". Ervig pipes up: "Actually... I may be able to use their help again today if they're available, Lieutenant". Vandil gives Ervig a sharp look: "Another smash and grab operation? Absolutely not, such an overt action would only worsen the situation!"._
 
 _Ervig chuckles: "Oh no no, that worked for a run-down shack in the Slums, but I wouldn't dare use the same tactic on a private estate! No, I think something much more above-board, official, and civilized is in order." Ervig turns to Captain Geberic, who has been listening intently, keeping his silence: "Captain, would you say we have probable cause to conduct a search of the Henson Halmoor estate, in light of our recent findings from the decoded cryptic letters and the contents we were able to retrieve from raid?"_
 
-_Geberic meets Ervig's gaze, and remains silent for another moment before finally answering: "It depends. Depends on who would be judging our actions in the event things don't turn out in our favor. Everyone in my office, now." He immediately turns and enters his office, with Vandil and Ervig in tow. You all follow and file in. Geberic sits at his desk and says: "Close the door".
+_Geberic meets Ervig's gaze, and remains silent for another moment before finally answering: "It depends. Depends on who would be judging our actions in the event things don't turn out in our favor. Everyone in my office, now." He immediately turns and enters his office, with Vandil and Ervig in tow. You all follow and file in. Geberic sits at his desk and says: "Close the door"._
 
 _With a heavy sigh Geberic turns to look at you all, and speaks: "Let me get you up to speed on the situation. When you assisted Ervig on the safehouse raid, you were able to seize valuable evidence. We've been able to decode the cryptic letters that have been found, and it paints an interesting picture. To put it bluntly: Someone has been fanning the flames of unrest here in Eimgan, stirring up the populace in an attempt to incite a rebellion. Someone has been supplying arms to the downtrodden commonfolk, and I'm ashamed to admit that someone has managed to convince a surprising number of your peers to look the other way with substantial bribes."_
 
@@ -621,27 +621,30 @@ _Halmoor's smile widens as he answers: "Very good. The only thing I have to decl
 
 _Ervig bows slightly and says: "Thank you for your cooperation. We'll begin our search here." Halmoor laughs: "The very soul of professionalism, bravo! Very well, search away!" Ervig turns to you all and gives the nod to get started searching. He walks to one side of the room and starts gently lifting cushions and searching anything in this room. You all spread out and start your search._
 
-From here, players will be conducting and room-to-room search for anything out of the ordinary with Ervig, while Halmoor and Teias are watching. 
+From here, players will be conducting a room-to-room search for anything out of the ordinary with Ervig, while Halmoor and Teias are watching. 
  - Teias and Ervig will be documenting anything that is found and taken by the players.
  - The Warden should keep a list of things found should players wish to review.
  - Each room will have a few things the players might find or notice, but not everything will be useful.
  - Halmoor is always smiling and courteous, and never betrays any hint of worry, fear, or frustration.
  - Halmoor will strongly object to any gems or coins being taken, and Ervig will tell the players to leave it be.
- - If Halmoor is asked a question, he was try to respond with as much useless detail as possible, such as old history, personal anecdotes, etc
+ - If Halmoor is asked a question, he will try to respond with as much useless detail as possible, such as old history, personal anecdotes, etc
  - Halmoor will make note of any wrongdoing the players may try to do (such as planting false evidence), but keep it to himself unless the players try to make a big deal out of it.
  - Important findings to the narrative will be marked with (Key Item), and Ervig will tell the players to confiscate it.
  - Every item occupies 1 inventory slot if they wish to confiscate it. (Unless bulky is specified)
  - Ervig can hold up to 6 slots if needed
 
+(map of the manor is displayed)
+Note that there are some small rooms that aren't marked, those are bathrooms (referred to as a "Privy"), and there's nothing hidden in those. However if the players wish to still search it... well we'd rather not think about that.
+
 ### Waiting Room
-Chairs, Benches, and Plants line the walls.
+Items of note:
  - There's a dagger hidden in one of the plants. 
  - In the base of the chandelier there is a small stash of gems.
 
 ### Great Hall
 Upon first entry:
 
-_Halmoor leads you into the main chamber of the manor and says: "Welcome to what I call the 'Great Hall', I often have guests over and it's important to make an impression." Before you is a large table with many high backed chairs on either side, and an ornate chair at the head of the table. The walls are adorned with various paintings and decorations, and there are many Doors that lead to other parts of the manor.
+_Halmoor leads you into the main chamber of the manor and says: "Welcome to what I call the 'Great Hall', I often have guests over and it's important to make an impression." Before you is a large table with many high backed chairs on either side, and an ornate chair at the head of the table. The walls are adorned with various paintings and decorations, and there are many Doors that lead to other parts of the manor._
 
 Things of note:
  - At the head of the table, underneath by one of the table leg bracing, there is a concealed Dagger.
@@ -669,12 +672,12 @@ Items of note:
 ### Study
 Upon first entry:
 
-_Halmoor leads the way into a large well-lit room that appears to be some sort of office. Natural light floods in from the large windows that overlook the street and the gate entrance of the estate property. An ornate desk surrounded by lavish chairs seems to be the centerpiece, the walls are lined with packed bookshelves or display cases containing rarities, and a heavy locked chest sits below the window.
+_Halmoor leads the way into a large well-lit room that appears to be some sort of office. Natural light floods in from the large windows that overlook the street and the gate entrance of the estate property. An ornate desk surrounded by lavish chairs seems to be the centerpiece, the walls are lined with packed bookshelves or display cases containing rarities, and a heavy locked chest sits below the window._
 
 Items of note:
  - Halmoor will unlock the chest and display cases upon request.
- - A several ledgers are stacked on his desk in plain sight. (Key Item, bulky)
- - A stash of journals can be found in a false bottom in the chest underneath loads of gold and gems which are sorted in manageable pouches (Key Item, bulky). Nothing of immediate relevant interest is found in the contents if a player reads it.
+ - Several ledgers are stacked on his desk in plain sight. (Key Item, bulky)
+ - A stash of journals can be found in a false bottom in the chest underneath loads of pouches filled with gold and gems (Key Item, bulky). Nothing of immediate relevant interest is found in the contents if a player reads it.
  - Cryptic letters can be found in a false bottom in one of the display cases. (Key Item)
 
 ### Guest Bedroom
@@ -688,7 +691,7 @@ Items of note:
 ### Servant's Quarters
 Upon first entry:
 
-_Teias leads the way into a very small room: "These are my private quarters, the master is gracious enough to allow me to live in his beautiful home so that I may better serve him.". Inside there is a small cot, a small desk, and a simple wooden stool._
+_Teias leads the way into a very small room: "These are my private quarters, the master is gracious enough to allow me to live in his beautiful home so that I may better serve him". Inside there is a small cot, a small desk, and a simple wooden stool._
 
 Items of note:
  - Tucked behind the cot is a concealed dagger.
@@ -711,7 +714,7 @@ Upon first entry:
 _Teias leads you into a large dimly-lit room: "Here is the Lounge, where the Master and his guests can be entertained.". There are several comfortable padded chairs gathered around a small stage, with various music instruments resting on stands. A small bookshelf sits against a wall that is adorned by several paintings._
 
 Items of note:
- - In the pages of one of the books, is a scandalous letter that appears to be from one of Halmoor's lovers.
+ - In the pages of one of the books, is a scandalous letter that appears to be from one of Halmoor's lovers (Key Item).
 
 ### Hidden Vault
 Upon discovery of the hidden trap door:
@@ -727,27 +730,27 @@ Items of note:
 ## Into the Lion's Den Conclusion:
 Once the players have completed the search to the best of their ability, read the following aloud:
 
-_With the hour growing late and your search complete, Ervig, Teias, and Halmoor compare lists of the comfiscated items to ensure there are no descrepancies. Upon finding none, Ervig bows slightly to Halmoor and says: "Thank you once again for your cooperation in this matter. Enjoy the rest of your day." With that, you all journey back to the Barracks to the familiar confines of the Duty Office_
+_With the hour growing late and your search complete, Ervig, Teias, and Halmoor compare lists of the comfiscated items to ensure there are no descrepancies. Upon finding none, Ervig bows slightly to Halmoor and says: "Thank you once again for your cooperation in this matter. Enjoy the rest of your day." With that, you all journey back to the Barracks to the familiar confines of the Duty Office._
 
-_Ervig helps you unload all the confiscated items on the desk and does one last verification with his list to ensure everything is there. Once completed, he turns to you all and breaths a sigh of relief: "Thank you once again for your help, to be honest I would've much preferred another Slums safehouse raid." He chuckles and continues: "Here take this." Ervig hands each of you 20 gold. "Vandil authorized a bonus for us since it is such a high-profile assignment, and with that you're released and can go rest."_
+_Ervig helps you unload all the confiscated items on the desk and does one last verification with his list to ensure everything is there. Once completed, he turns to you all and breathes a sigh of relief: "Thank you once again for your help, to be honest I would've much preferred another Slums safehouse raid." He chuckles and continues: "Here take this." Ervig hands each of you 20 gold. "Vandil authorized a bonus for us since it is such a high-profile assignment, and with that you're released and can go rest."_
 
 ## The End
-Determine which ending to read aloud based on the findings of the search:
+Determine the ending to read aloud based on the findings of the search:
 
 If Halmoor's hidden vault was found and searched:
 
-_In the days that followed the Search of the Halmoor Estate, Ervig, Vandil, and Geberic labored to decode and organize the evidance against Halmoor, who was brought to trial before the Magistrate. Unable to mount a credible defense under the weight of the evidence, the Magistrate judged him guilty, ordered him imprisoned, and seized his assets._
+_In the days that followed the Search of the Halmoor Estate, Ervig, Vandil, and Geberic labored to decode and organize the evidence against Halmoor, who was brought to trial before the Magistrate. Unable to mount a credible defense under the weight of the evidence, the Magistrate judged him guilty, ordered him imprisoned, and seized his assets._
 
-_Directly after Halmoor's sentencing, Marcomir received a promotion from the Magistrate. This resulted in the tax rate being raised, and the immediate disbanding of the Guards despite the protests of Captain Geberic and Lieutenant Vandil. The question of who will protect the people if the Guards are no more was quickly answered as outsourced Mercanaries assumed the mantle of "Protectors" of Eimgan, however they were far more concerned extorting taxes from the people rather than maintaining law and order._
+_Directly after Halmoor's sentencing, Marcomir received a promotion from the Magistrate. This resulted in the tax rate being raised, and the immediate disbanding of the Guards despite the protests of Captain Geberic and Lieutenant Vandil. The question of who will protect the people if the Guards are no more was quickly answered as outsourced Mercanaries assumed the mantle of the "Protectors" of Eimgan, however they were far more interested in extorting taxes from the people rather than maintaining law and order._
 
 _Suddenly unemployed, you're now free to do as you will. What adventures await you? Will you resist Marcomir's treachery and fight to restore the Guards? Will you find your fortune elsewhere? Or perhaps you'll save the world against an ancient evil? Whatever you choose to do, you know that you're much more prepared for whatever lay ahead than you were a few short weeks ago._
 
 
 If the players failed to search the hidden vault:
 
-_In the days that followed the Search of the Halmoor Estate, Ervig, Vandil, and Geberic labored to decode and organize the evidence against Halmoor, however there simply was nothing solid that implicated Halmoor beyond a shadow of a doubt, so no Trial was held. Later, for unknown reasons Marcomir resigned from his role as Head of Treasury, and the Magistrate appointed Halmoor in his stead._
+_In the days that followed the Search of the Halmoor Estate, Ervig, Vandil, and Geberic labored to decode and organize the evidence against Halmoor, however there simply was nothing definitive that implicated Halmoor in any crimes, so no Trial was held. Later, for unknown reasons Marcomir resigned from his role as Head of Treasury, and the Magistrate appointed Halmoor in his stead._
 
-_Upon being appointed Head of Treasury, Halmoor immediately ceased all funding of the City Guard, and instead outsourced a band of Mercanaries to assume the role of "Protectors" of Eimgan. Geberic was immediately arrested, and every Guard was out of a job. Halmoor increased the tax rate and used his Mercanaries to arrest anyone who spoke out against him._
+_Upon being appointed Head of Treasury, Halmoor immediately ceased all funding of the City Guard, and instead outsourced a band of Mercanaries to assume the role of the "Protectors" of Eimgan. Geberic was immediately arrested, and every Guard was out of a job. Halmoor increased the tax rate and used his Mercanaries to arrest anyone who spoke out against him._
 
 _Suddenly unemployed, you're now free to do as you will. What adventures await you? Will you resist Halmoor's treachery and try to rescue Geberic? Will you find your fortune elsewhere? Or perhaps you'll save the world against an ancient evil? Whatever you choose to do, you know that you're much more prepared for whatever lay ahead than you were a few short weeks ago._
 
